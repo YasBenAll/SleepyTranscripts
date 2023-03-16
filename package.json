@@ -15,5 +15,9 @@
   "scripts": {
     "native": "cd apps/expo && expo start",
     "web": "cd apps/next && yarn next"
+  },
+  "packageManager": "yarn@1.22.19",
+  "dependencies": {
+    "solito": "^3.0.0"
   }
 }
