@@ -42,7 +42,7 @@ export function HomeScreen() {
         </TextLink>
         <View sx={{ width: 32 }} />
         <MotiLink
-          href="/user/fernando"
+          href="/transcription"
           animate={({ hovered, pressed }) => {
             'worklet'
 
@@ -64,7 +64,7 @@ export function HomeScreen() {
             selectable={false}
             sx={{ fontSize: 16, color: 'black', fontWeight: 'bold' }}
           >
-            Moti Link
+            Transcript
           </Text>
         </MotiLink>
       </Row>
