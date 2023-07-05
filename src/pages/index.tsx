@@ -1,11 +1,24 @@
-import Image from 'next/image'
-import { Inter } from 'next/font/google'
+import { useEffect, useState } from 'react'
 
-const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
+  const [message, setMessage] = useState("");
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+      fetch('localhost/api/python')
+          .then(res => res.json())
+          .then(data => {
+              setMessage(data.message);
+              setLoading(false);
+          })
+  }, [])
+
   return (
     <div className="flex justify-center items-center h-screen">
+      <div className="items-center">
+        <p> {!loading ? message : "Loading.."}</p>
+      </div>
       <form className="flex flex-col justify-center items-center">
         <label className="text-2xl">Podcast link</label>
         <input
