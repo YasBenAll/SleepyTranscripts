@@ -6,9 +6,10 @@ export default function Home() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-      fetch('localhost/api/python')
+      fetch('http://localhost:8080/api/python')
           .then(res => res.json())
           .then(data => {
+              console.log(data.message)
               setMessage(data.message);
               setLoading(false);
           })
