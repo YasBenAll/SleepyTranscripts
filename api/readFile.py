@@ -34,7 +34,7 @@ def get_episode(episode_name):
         text = [line for line in file.readlines() if line!="\n"]
         speakers = speaker_process([i.replace("\n", "")[1:-2] for i in text[::2]])
         dialog = [i[:-1] for i in text[1::2]]
-        
         data = [{"speaker":i[0][0], "dialog":i[1][2:], "start_time":i[0][1], "end_time":i[0][2]} for i in zip(speakers, dialog)]
+        data.append(episode_name)
         # print(json.dumps(data))
         return json.dumps(data)

@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import { useRouter } from 'next/router'
 import { useEffect, useState } from 'react'
 
@@ -17,14 +18,18 @@ export default function EpisodePage() {
   if (!episodeData) {
     return <div>Loading...</div>;
   }
-  console.log(episodeData)
   return (
     <div>
-              {episodeData.map((item: any, i: any) => (
-                <li key={i}>
-                  {item.dialog}
-                </li>
-              ))}
+      <Link href="/">Back</Link>
+      <div className="text-4xl">{episodeData.pop(-1)}</div>
+        <div className="text-4xl">
+          Episodes:
+        </div>
+        {episodeData.map((item: any, i: any) => (
+          <div key={i}>
+            {`${item.speaker} [${item.start_time}]: ${item.dialog}`}
+          </div>
+        ))}
     </div>
   );
 }
