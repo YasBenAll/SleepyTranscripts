@@ -1,0 +1,1924 @@
+
+
+ SPEAKER_00 [0:00:00.497 --> 0:00:23.312]: 
+  There is a world as tangible as our own, impossible to see yet unavoidable to sense. A world enveloped by a seemingly unending ocean of forests. Buried deep in that forest, tucked away neatly within a blanket of twilight, lies a quaint little cabin. And in that cabin... Is a bunch of guys, is a bunch of bullshit. Fuckin' shit.
+
+ SPEAKER_02 [0:00:22.924 --> 0:00:32.155]: 
+  Welcome to this sleepycast game design spectacular. I'm Jeff. Hey, Cory. What's your name? Cory? We have Chris
+
+ SPEAKER_04 [0:00:31.868 --> 0:00:36.542]: 
+  Hey, I'm just sitting here. I'm not a game designer. Tom Fulp. Hey, guys. Game designer and...
+
+ SPEAKER_02 [0:00:35.395 --> 0:00:48.051]: 
+  Hey guys, I know and new grandfathers extraordinary and brand new to the podcast Michael It's the swain the swain the creator of blockhead
+
+ SPEAKER_04 [0:00:38.297 --> 0:00:38.331]: 
+  you
+
+ SPEAKER_04 [0:00:38.922 --> 0:00:38.939]: 
+  you
+
+ SPEAKER_03 [0:00:44.187 --> 0:00:44.592]: 
+  Hey!
+
+ SPEAKER_04 [0:00:48.051 --> 0:00:55.510]: 
+  Blockhead 2. Blockhead 2. I have a question. Did you do Blockhead's voice? Yes, I did. Can you still do Blockhead's voice?
+
+ SPEAKER_03 [0:00:53.434 --> 0:00:54.075]: 
+  Yes, I did.
+
+ SPEAKER_03 [0:00:55.392 --> 0:01:07.744]: 
+  Kind of, yeah. I cheated, I pitch bent it, like one step up. Oh, you were a fag. You cheated? One step. You're sick. Yeah, but you could, it's not hard. You're not pure? Pure. No, I'm not a purest. Can we hear it? I'm a vocal reappearater.
+
+ SPEAKER_02 [0:00:59.425 --> 0:01:01.838]: 
+  One step, one step.
+
+ SPEAKER_02 [0:01:02.564 --> 0:01:02.766]: 
+  heart.
+
+ SPEAKER_02 [0:01:07.744 --> 0:01:12.368]: 
+  Hi! Hello! Hey! Whoa! See I don't need it. It's the real Wacanus right here.
+
+ SPEAKER_03 [0:01:08.689 --> 0:01:21.176]: 
+  Wow! Hey! Whoa! See, I don't need it. It's like a real lock hand is right here. Originally when I did that, I always envisioned having the voice of a child, not like this weird messed up like adult trying to do a high-pitched voice thing. But I think it added kind of to the creepy factor, so I was okay with that.
+
+ SPEAKER_04 [0:01:21.059 --> 0:01:25.885]: 
+  I always thought like he was on the verge of schizophrenia because he's like... Yo, yeah, he is.
+
+ SPEAKER_03 [0:01:25.125 --> 0:02:25.707]: 
+  Oh, yeah, he is. That's 100% correct. Yeah. The idea is his house is really an asylum. The conscience is his medication. Oh, really? And yeah, it's one of those behind the scenes. I think when we were walking on working on the Ching game, whose name won't be mentioned on the podcast, I think I explained some of that to him once. Should we cover that briefly? Our side school are called CCB. I don't even know how we hooked up to make that game in the first place now. I just finished the Mastermind World Concord game, which did okay. I really had a taste for game design. I wanted to jump back into it. It was based on the board game Mastermind, where you get six different colored pegs, and you have to create combinations of four, and guess what the other guy's combo was by Cluzzi Gives You. And that was a game owned by Pressman Toys, and they didn't like that I'd made that. But they couldn't do much with it, because you can't copyright game rules. You can't do it. I learned this in the process of getting a cease and desist, but you haven't made it on Newgrounds until you've been sent a cease and desist. But I like the game, but you can't copyright game rules, and we designed our own board. It didn't look in any way. The interface was nothing like their board game, so they had no case.
+
+ SPEAKER_00 [0:01:38.220 --> 0:01:38.507]: 
+  I think
+
+ SPEAKER_01 [0:01:38.507 --> 0:01:43.097]: 
+  I explained that to him once. Should we cut that briefly?
+
+ SPEAKER_00 [0:01:53.509 --> 0:01:53.526]: 
+  you
+
+ SPEAKER_04 [0:01:59.669 --> 0:01:59.955]: 
+  Mm.
+
+ SPEAKER_00 [0:02:13.455 --> 0:02:16.847]: 
+  You haven't made it on Newgrounds until you've been sent a season to Sys
+
+ SPEAKER_02 [0:02:25.707 --> 0:02:29.216]: 
+  Even though they didn't have a case, they still fuck with you. Yeah, yeah, they can- They're a fucking company. Yeah, yeah.
+
+ SPEAKER_03 [0:02:27.732 --> 0:02:36.439]: 
+  Yeah, yeah, they can come. Yeah, yeah, you can you can freely send season to cis letters like and you never know how willing they are to Like go through with it. We were talking about your first game
+
+ SPEAKER_04 [0:02:36.439 --> 0:02:37.030]: 
+  It's underestimated. Snow's been
+
+ SPEAKER_03 [0:02:37.030 --> 0:02:47.172]: 
+  Yeah, yeah, like eventually we're getting to CCB. It's a, it was supposed to be a satirical, not racist, but poking-funded American racism towards Japanese games. Let's, let's, let's certainly, I think we- Like, type of game.
+
+ SPEAKER_04 [0:02:45.299 --> 0:02:46.007]: 
+  put people back to be for
+
+ SPEAKER_02 [0:02:45.501 --> 0:02:51.492]: 
+  Let's certainly I think we wanted to make a game. I think we both were both infatuated with the show Ninja Warriors
+
+ SPEAKER_03 [0:02:51.289 --> 0:02:54.900]: 
+  Yeah, Ninja Warrior with most extreme challenges, I think, right?
+
+ SPEAKER_04 [0:02:53.702 --> 0:02:58.984]: 
+  Really? MxC is like Trump's Ninja Warrior. My opinion Ninja Warrior was so much better.
+
+ SPEAKER_03 [0:02:57.786 --> 0:03:08.704]: 
+  Ninja Warrior was so like... There's more laugh factor, like it's hilarious. Ninja Warrior is where you go for that like feel good like, like every man did it, or that like, that small girl that did it for the American one about that long ago. I was almost like, get to the wall and it just like...
+
+ SPEAKER_04 [0:03:06.443 --> 0:03:15.184]: 
+  I think it's the wall just like fall on their face. No be it. Yeah Or is kind of like what like the castle we wanted to make it
+
+ SPEAKER_03 [0:03:10.172 --> 0:03:10.611]: 
+  Yeah.
+
+ SPEAKER_01 [0:03:10.611 --> 0:03:13.530]: 
+  I have this build up to like these others to catch us castle
+
+ SPEAKER_02 [0:03:13.007 --> 0:03:22.626]: 
+  Castle we wanted to make it like a clumsy dumb American yeah, we wanted to match it all the hard off the course It's a really good idea. So so why you said it?
+
+ SPEAKER_04 [0:03:17.597 --> 0:03:27.503]: 
+  Yeah, we wanted to mash it all in hard. It's a really good idea. So why did you say it comes? We called it Qingchang Beautiful. Alright.
+
+ SPEAKER_02 [0:03:26.389 --> 0:03:30.945]: 
+  All right. I'm so sorry, Tom. You're that correctly. We should have listened. Yeah, Tom, Tom.
+
+ SPEAKER_03 [0:03:27.503 --> 0:03:32.025]: 
+  I'm so sorry, Tom. I was going to answer that correctly. We should have listened. Yeah, Tom, Tom. All of me is embarrassed, but. Tom, Tom.
+
+ SPEAKER_04 [0:03:30.945 --> 0:03:41.948]: 
+  Tom's like credit. He's like you know what guys? I think we're just sabotaging ourselves somehow.
+
+ SPEAKER_03 [0:03:40.345 --> 0:03:44.209]: 
+  some subtle things that are outright which fine that's fine like subtle
+
+ SPEAKER_02 [0:03:44.192 --> 0:03:47.112]: 
+  We had dialogue, there were lines about zipper heads.
+
+ SPEAKER_04 [0:03:47.112 --> 0:03:49.947]: 
+  That's where I got super high.
+
+ SPEAKER_02 [0:03:49.947 --> 0:03:50.453]: 
+  Thanks for watching.
+
+ SPEAKER_03 [0:03:50.453 --> 0:03:51.820]: 
+  I think we cut that one.
+
+ SPEAKER_02 [0:03:51.111 --> 0:03:55.060]: 
+  I mean the crater stage where Nagasaki was, that was on me.
+
+ SPEAKER_03 [0:03:52.849 --> 0:04:06.450]: 
+  Saki was that was on me. Yeah, there's a crater stage There's a big like desert based out of a nuclear crater Which if you look on the map of Japan where the stages it's in Hiroshima. Oh, yeah. Yeah, so that's I mean, that's tasteless
+
+ SPEAKER_04 [0:04:03.109 --> 0:04:23.072]: 
+  Oh yeah. Yeah, so that's, I mean that's tasteless. That's not evil, it's just tasteless. I remember getting super invested in Chang-Chang. I wanted to fucking beat it. Yeah. That was so hard at first. It was, yeah. It was pretty terrible. You like master the controls eventually, and then you actually like, oh wait, I'm not actually playing the game. And then you realize you have to collect like the fucking like fish books or something and then you're just like... Yeah, once you get through easy mode, yeah.
+
+ SPEAKER_02 [0:04:09.606 --> 0:04:13.302]: 
+  Yeah, that was so hard at first. It was, yeah. You like master the craft.
+
+ SPEAKER_03 [0:04:20.676 --> 0:04:29.957]: 
+  Yeah, once you get through easy mode, yeah, and the game just cuts off. It's like, sorry, you want to... This game is not for babies. It just makes you go back to the beginning.
+
+ SPEAKER_01 [0:04:25.485 --> 0:04:25.992]: 
+  Thank you.
+
+ SPEAKER_04 [0:04:25.992 --> 0:04:42.782]: 
+  This game is not for babies. This game makes you go back to the beginning. These games, the games you release and stuff, like when Alien Hamanide came out, Hamanid, Hamaniside, Alien Hamanid, Alien Hamanid. Alien Hamaniside. But it's like that game came out, it just kicked my fucking ass. I didn't know what to do. I was like,
+
+ SPEAKER_03 [0:04:35.745 --> 0:04:37.450]: 
+  2nd cult
+
+ SPEAKER_01 [0:04:37.450 --> 0:04:38.057]: 
+  But it's
+
+ SPEAKER_03 [0:04:40.994 --> 0:04:41.145]: 
+  I know.
+
+ SPEAKER_03 [0:04:42.715 --> 0:04:45.145]: 
+  It reminded me of Contra, maybe very mad.
+
+ SPEAKER_04 [0:04:43.643 --> 0:04:54.629]: 
+  Yeah, the first time I played it I was just like, I think this will be fun and just got mulled down by like The game is a death site at the time And I was just like, oh fuck. Like even that fucking robot game, Tathode Robots
+
+ SPEAKER_03 [0:04:47.558 --> 0:04:47.794]: 
+  Thank you.
+
+ SPEAKER_03 [0:04:48.807 --> 0:04:50.849]: 
+  Yeah, the game is a death site.
+
+ SPEAKER_03 [0:04:54.494 --> 0:04:55.945]: 
+  Okay, robot, robot.
+
+ SPEAKER_04 [0:04:55.810 --> 0:05:07.589]: 
+  You get people coming in and they just make like the hardest shit ever. You're just like oh my god I want to rip my fucking head off. Yeah, so far. Yeah, Robot was Beautiful was like your second coding that
+
+ SPEAKER_03 [0:05:01.193 --> 0:05:05.429]: 
+  These are all games that you all made here, right? Yeah, so far, yeah. Robot was used to this. So, wait, Team Trunks Beautiful was used to this.
+
+ SPEAKER_03 [0:05:06.880 --> 0:05:17.629]: 
+  Um, that, yeah, I think, okay, so, right, I had swapped African's Mastermind World Conqueror. That was my first time making a game. I never programmed in Flash before outside of, like, preloaders. That was it.
+
+ SPEAKER_04 [0:05:08.989 --> 0:05:09.951]: 
+  Right, I could swap.
+
+ SPEAKER_02 [0:05:17.140 --> 0:05:18.439]: 
+  So yeah, so when you
+
+ SPEAKER_04 [0:05:18.439 --> 0:05:23.417]: 
+  When you made World Conqueror and you released it, how many bugs were there in there?
+
+ SPEAKER_03 [0:05:19.215 --> 0:05:19.890]: 
+  and venues.
+
+ SPEAKER_03 [0:05:23.417 --> 0:05:50.316]: 
+  Oh plenty all the time like one of the big game breaking ones was that sometimes enemies would just run off the map And just keep going forever nowadays I could fix this in a second, but it was hard to test because you're working in flash That's just that's the nature of the beast and like the game breaking bug was like they would just run off And so you're always under attack is what your thing says you can continue to play but your game never autosaves So you're basically stuck there until you buy another base and like evacuate this one But then you lose the base forever, you know, you said
+
+ SPEAKER_01 [0:05:42.435 --> 0:05:42.554]: 
+  Thank you.
+
+ SPEAKER_02 [0:05:49.405 --> 0:05:51.987]: 
+  You know, you said they run out the screen.
+
+ SPEAKER_04 [0:05:51.987 --> 0:05:55.446]: 
+  Do you ever see The Lord of the Rings 2 DVD commentary?
+
+ SPEAKER_03 [0:05:55.395 --> 0:05:58.939]: 
+  for the movies? Yeah, I watched all those in a lonely day in college.
+
+ SPEAKER_04 [0:05:57.522 --> 0:06:08.558]: 
+  They're lonely day in college. Do you remember the part where they're like, we made these like army simulators. And then we noticed that some of the orcs were deserting their battlefield and they were running into the forest.
+
+ SPEAKER_03 [0:06:02.770 --> 0:06:03.394]: 
+  Oh yeah.
+
+ SPEAKER_03 [0:06:08.558 --> 0:06:15.443]: 
+  Yeah, right, like when you see the battle of Mordor, like when they're doing the flashbacks to the humans fail.
+
+ SPEAKER_01 [0:06:14.177 --> 0:06:14.194]: 
+  you
+
+ SPEAKER_04 [0:06:14.194 --> 0:06:18.261]: 
+  But they thought they created artificial intelligence fear.
+
+ SPEAKER_03 [0:06:17.502 --> 0:06:23.273]: 
+  what they had done was badly programmed, a really crappy AI simulation.
+
+ SPEAKER_04 [0:06:22.868 --> 0:06:27.812]: 
+  And the DVD commenters are saying that though like they created like real life legal works.
+
+ SPEAKER_03 [0:06:27.239 --> 0:06:45.362]: 
+  Because to be fair, you can't animate hundreds of thousands of guys all fighting at the same time. It's an amazing feat that they did this. But then they're marveling at the birth of their new creation. Which is not a movie about a guy that's rolling over in his grave right now. Yeah, I just forgot about it. And his book creation, but no, instead they've created, they've given birth to new life. Yeah. Now those guys are idiots.
+
+ SPEAKER_01 [0:06:37.245 --> 0:06:37.735]: 
+  Thank you for joining me.
+
+ SPEAKER_02 [0:06:38.342 --> 0:06:39.777]: 
+  Yeah, I just forgot about it.
+
+ SPEAKER_02 [0:06:43.844 --> 0:06:57.006]: 
+  Yeah, no, those guys were idiots. To back up a second, I think that there was a lot of great stuff in that game. The thing that sucked the most was, yeah, yeah, I think that sucked the most was, we made it on like fairly, you know, average, good speed running computers, and then it just ran slow for a lot of time.
+
+ SPEAKER_04 [0:06:48.534 --> 0:06:50.340]: 
+  Which one? Sing Chong Beautiful? Yeah, yeah, I think that's the one.
+
+ SPEAKER_03 [0:06:55.082 --> 0:06:55.454]: 
+  Yeah.
+
+ SPEAKER_03 [0:06:57.006 --> 0:07:09.915]: 
+  I remember I couldn't even export the game at the end. I could test it But every time I want to go export it the game would break for me like it would fail exporting Yeah, so we had you doing it on your Mac my PC was just failing at this. Yeah, I'm running the game in general
+
+ SPEAKER_02 [0:07:07.485 --> 0:07:12.784]: 
+  running the game in general also is a little more than files and flash was a fucking nightmare
+
+ SPEAKER_04 [0:07:11.890 --> 0:08:06.362]: 
+  Yeah, and Tom I think that was like the main reason everyone wanted to YouTube was it was like to upload a cartoon to New Grants You had to make a cartoon in such a way that you know that after I think was 14,000 frames It is there's a crash or something Yeah, you also had to code in that ad API which was a piece of shit Uh-huh the preloaders were piece of shit and if you wanted it to like stop after the cartoon You'd have to like go into the file thing and click stop action Yeah, and nobody knew how to do any of that so it was really intimidated. That's why I like so when so thing came Oh my god, dude. No, that's something Fucking God send yes, that's what I meant to say It's a flash converter and it's so handy it is so good the other thing to have a Tom's is all-in-one pre-letter It was like magic to me. Oh, yeah. I used to always like
+
+ SPEAKER_02 [0:07:15.130 --> 0:07:15.535]: 
+  Yeah.
+
+ SPEAKER_03 [0:07:23.922 --> 0:07:24.850]: 
+  its useless
+
+ SPEAKER_00 [0:07:37.337 --> 0:07:38.569]: 
+  and stop action.
+
+ SPEAKER_03 [0:07:41.894 --> 0:07:41.995]: 
+  Thank you.
+
+ SPEAKER_02 [0:07:41.995 --> 0:07:42.197]: 
+  That's what I'm talking about.
+
+ SPEAKER_02 [0:07:46.180 --> 0:07:46.973]: 
+  We're both worth it.
+
+ SPEAKER_02 [0:07:48.036 --> 0:07:48.659]: 
+  Yes, swivel!
+
+ SPEAKER_03 [0:07:50.517 --> 0:07:51.040]: 
+  thing right?
+
+ SPEAKER_02 [0:07:51.040 --> 0:07:52.879]: 
+  Swivel is a god said it's a
+
+ SPEAKER_01 [0:07:55.731 --> 0:07:56.085]: 
+  movie, which was really水ers rather than
+
+ SPEAKER_02 [0:08:00.068 --> 0:08:00.827]: 
+  Oh god, yes!
+
+ SPEAKER_02 [0:08:02.177 --> 0:08:02.717]: 
+  Oh, yeah.
+
+ SPEAKER_02 [0:08:03.780 --> 0:08:11.020]: 
+  downloadable. Oh yeah my oh my. I used to put code like at the beginning the end and it was terrible. I took that I dissected that for all my blockers.
+
+ SPEAKER_03 [0:08:09.012 --> 0:08:13.889]: 
+  I dissected that for all my blockhead cartoons, my preloaders for all this modified version of your...
+
+ SPEAKER_04 [0:08:11.020 --> 0:09:22.215]: 
+  I think I could cartoons my preloaders were all just modified versions of yours. The porn flashes on Shad's site, and then the loader, it's a new ground preloader. I just fucking changed pictures around it. No, yeah. Creating a free preloader was like a really smart move, because so much flash had our preloader on it, and you'd see other websites would come along and they'd have that play button. Like they'd strip out all of our logos and stuff, but they'd always still have that play button. Like they didn't know how to like, that had to be like the way a web animation started. I think I probably saw, like it's so universal, like when you go to like sites and just like free games, you're like, this is a new ground preloader. So you know immediately that it's like, these people just stole assets from games and just like used the preloader because it's there. And it's like you had different versions. You had Christmas versions. You also had one that just like automatically plays, which a lot of like spam people use, me included. You like, you wait for it to load and then suddenly just your speakers explode because there's just static and noise immediately after it. I don't think I ever made my own preloader, because I tried following tutorials and stuff because I used to go to new grounds for like, Oh, I want to make a game. I'll just use new grads tutorials and teach me how to do like basic code. My hair out that shit. But then these people, they're like, they're wrong and people in the comments are like, your tutorial didn't help me. You got all your stuff wrong and they were just like, fuck you in the comments.
+
+ SPEAKER_00 [0:08:22.495 --> 0:08:24.250]: 
+  really smart move because so much
+
+ SPEAKER_01 [0:08:36.213 --> 0:08:36.754]: 
+  started.
+
+ SPEAKER_01 [0:09:13.289 --> 0:09:14.639]: 
+  Come on, hero. That's shit.
+
+ SPEAKER_02 [0:09:13.997 --> 0:09:14.571]: 
+  감사합니다
+
+ SPEAKER_04 [0:09:24.173 --> 0:09:43.630]: 
+  Nothing ever changed so there was always like something in the back of my mind But when you guys started designing your games What was it the first problems you ran into that you never thought of what about the details of like the running and stuff How did that come along because there are so many bits of details like running on water causes you to start slipping and sliding So you have to like own it in shanks on yeah
+
+ SPEAKER_01 [0:09:33.015 --> 0:09:33.707]: 
+  never thought of.
+
+ SPEAKER_03 [0:09:42.195 --> 0:10:24.012]: 
+  Oh and in Shang-Chan? Yeah. First I guess to fire off the answer to Chris's thing. I know that one of the biggest problems, easy to just like turn flash into a punching bag, it's really really easy to do that. But yeah not knowing that the further you go into a game and you can't back off, like you're not having a problem with the game, you're having a problem with the flash cannot handle something of that size. I had that problem with project Nexus 1. Shang-Chan Beautiful was no different. I'm glad that we stopped the game right where we did with the content we had. Fine for a flash game, didn't need any more stages and we could have been really unlucky if there was like one more stage we were trying to shove in there and if flash had just said no it's just not gonna happen. We're not gonna export it. Your assets are gonna get swapped around and messed up. Hopefully we'll talk about that later.
+
+ SPEAKER_04 [0:10:22.476 --> 0:10:32.449]: 
+  Hopefully we'll talk about that later. That like happened with Final Fantasy 7 where they got to a point where they're like, this is so buggy, we're just gonna release the way it is because if we add anything else, it's gonna break it more.
+
+ SPEAKER_03 [0:10:30.981 --> 0:10:47.670]: 
+  It's gonna break it more. And it's mystifying that that would be how that works. You think that you write the code, and that the more code you write, it's not that one new piece of code is screwing something else up that happens all the time. It's that the engine or platform that you're using just can't handle it and then things start to break apart for entirely different reasons.
+
+ SPEAKER_04 [0:10:47.670 --> 0:11:39.882]: 
+  Yeah, certain memory loads weird because even like levels is like what is like destroying the game and you find out It's just like one movie clip that has a little too much frames and just that one area And I never understood how to do scenes in flash and how to like put all that shit together It's also scary when you're all working with different computers So Jeff will draw something and see us three on a Mac and then hand it to me and I'll open it and see us 5.5 on a PC and I have no idea like what weird shit is breaking in Yeah, exactly, and I'm selling using like and he Which is weird too because you use a Mac and I still use a windows So when you we can somehow and some weird circular swap between a Mac to a windows to a Mac to a windows And it's like weird cuz flash like kind of like stopped making stuff after kind of like prior to that like flash 8 is for CS 3 and then CS 4 CS 3 then CS 6 is like CS 4 and 5 or whatever and it just sort of like does that the down saving Yeah, oh yeah, yeah
+
+ SPEAKER_01 [0:11:00.833 --> 0:11:01.390]: 
+  It's awesome.
+
+ SPEAKER_00 [0:11:09.473 --> 0:11:11.177]: 
+  I have no idea like what
+
+ SPEAKER_01 [0:11:12.679 --> 0:11:13.388]: 
+  Not an inferno.
+
+ SPEAKER_03 [0:11:39.240 --> 0:11:45.282]: 
+  Oh yeah, you have to swap between like you have to leapfrog from episode to episode of this stupid program
+
+ SPEAKER_02 [0:11:42.447 --> 0:11:43.442]: 
+  from episode to episode.
+
+ SPEAKER_02 [0:11:44.421 --> 0:11:46.497]: 
+  It is the worst.
+
+ SPEAKER_04 [0:11:46.497 --> 0:12:29.950]: 
+  You got flash 4, you can't open flash 5 files, so you gotta go into flash 5 on someone's computer and then save it to a CS4 format. Exactly. But the big problem is if you have CS3, I need to also own CS4. I need to save a CS5 to CS4, then open CS4 and save it down to CS3. And it's amazing. You have to own every copy of Flash that comes between it. And you have to own it because they even made it now, so the fucking published settings won't even open if you don't own it. So you actually physically have to own CS4 in order to downgrade it from CS4 to CS3 to give it to somebody to downgrade that or upgrade that to CS5. You know, I think they finally fixed that. I hope so. I think in CS5 or 5.5 and 6, it says like, you're opening a file that's different, so... I think for later versions they did. Yeah.
+
+ SPEAKER_03 [0:11:54.276 --> 0:11:54.951]: 
+  Exactly.
+
+ SPEAKER_01 [0:11:57.111 --> 0:11:57.769]: 
+  I need to also
+
+ SPEAKER_00 [0:12:02.309 --> 0:12:06.494]: 
+  save it down to CS3. So you have to own every copy of Flash.
+
+ SPEAKER_00 [0:12:20.567 --> 0:12:22.542]: 
+  You know, I think they finally fixed that.
+
+ SPEAKER_02 [0:12:27.975 --> 0:12:28.431]: 
+  I think for later.
+
+ SPEAKER_02 [0:12:29.950 --> 0:12:30.996]: 
+  to fix that but.
+
+ SPEAKER_04 [0:12:30.557 --> 0:12:41.003]: 
+  To me flash was always like it's it was just like MS Paint but with tools you can use that make pictures move and stuff Yeah, you're not wrong with a picture because it's very basic and we could start
+
+ SPEAKER_03 [0:12:37.459 --> 0:12:38.455]: 
+  Yeah, you're not wrong.
+
+ SPEAKER_02 [0:12:41.003 --> 0:12:43.720]: 
+  talking about like the visuals like problems.
+
+ SPEAKER_03 [0:12:43.365 --> 0:12:48.951]: 
+  I'm working in 3d Chris has got some opinions on 3d2 he's been things like
+
+ SPEAKER_02 [0:12:46.960 --> 0:13:00.443]: 
+  things like, okay, start, when you start making the game, you notice the more the more detailed your characters the more you really feel like you can't get away with for example there's like an idle animation and the character is standing there in a run it looks weird like you can't get away with it
+
+ SPEAKER_04 [0:12:49.862 --> 0:12:49.947]: 
+  Thank you.
+
+ SPEAKER_01 [0:12:54.992 --> 0:12:55.245]: 
+  Mm-hmm.
+
+ SPEAKER_04 [0:13:00.443 --> 0:13:23.595]: 
+  with what you people used to get away with on an 8-bit Nintendo games where you know there's like stand run jump now we have to like make little transitions between oh yeah yeah just like tiny transition like one frame fucking transition but it somehow all comes together in the end and it's just like how the fuck does this work but then you just like just gonna mimic this just like I used to do in the past we saw you perfect and it's like
+
+ SPEAKER_02 [0:13:08.560 --> 0:13:09.809]: 
+  Oh yeah, yeah.
+
+ SPEAKER_01 [0:13:12.677 --> 0:13:13.133]: 
+  감사합니다.
+
+ SPEAKER_02 [0:13:22.819 --> 0:13:28.304]: 
+  Chunchun beautiful the same thing like we slain through and all these transitions we have so many friends about we
+
+ SPEAKER_03 [0:13:27.797 --> 0:13:50.967]: 
+  Yeah, we will first you you kind of decide what is the character gonna do and there were no transitions in the beginning the very first Copy the game. I know it's floating out there somewhere. I think it's on my dropbox Yeah, is this stick figure with the basic engine of the character I basically did all the like physics stuff in like two days maybe a day Yeah, and it was broken as hell and I tweaked it over time to get more contact points So the game would know if you got hit in the midsection or the feet or the head. There's different animations
+
+ SPEAKER_02 [0:13:29.603 --> 0:13:30.565]: 
+  It looks good though.
+
+ SPEAKER_04 [0:13:49.448 --> 0:14:49.709]: 
+  There's different animation. That's kind of like for instance when a character gets knocked down depending if he gets knocked down Forward he falls on his stomach, but if he gets knocked back he falls on his back Right so it's context sensitive also to the movements and that's really fucking cool Yeah, people don't usually pay it's like it's not to talk down upon in like these indie sprites games But they usually like have like a if it's very simplistic. It's just like a one-frame thing It's like hurt fall down up It's like six frames and you know things like terraria Which is just like the characters move and it's just like this like skeleton that has this all connected to one part So you could essentially like swap things out these fucking characters everything is hand-drawn It's one of the other challenges of all this too as you get the better your animation is you start getting to the Prince of Persia Territory which I always hated it was so much about looking at all this beautiful animation that it took away your control over the character Like to me it always felt like that didn't feel like you mean the first Yeah Animation the animation was beautiful, but he
+
+ SPEAKER_03 [0:13:58.020 --> 0:13:58.662]: 
+  Right.
+
+ SPEAKER_00 [0:14:39.145 --> 0:14:41.507]: 
+  Oh, you mean the furna?
+
+ SPEAKER_03 [0:14:41.507 --> 0:14:46.435]: 
+  the Sansa time
+
+ SPEAKER_03 [0:14:48.460 --> 0:14:58.365]: 
+  If you like took the effort to stop for a moment and decide you wanted to move again Yeah, I hope you weren't gonna be doing anything for the next couple minutes of your life
+
+ SPEAKER_02 [0:14:55.632 --> 0:15:11.123]: 
+  of your life because you're dedicating it to the cool little one. Let's talk about that. Like, if I animate a character, if I want to make a character jump, initially I would make him crouch down like you normally would see in an animation and they like spring up and jump. But then it doesn't really work in a game.
+
+ SPEAKER_04 [0:15:07.967 --> 0:15:18.447]: 
+  Yeah, well then it doesn't really work in a game. You have to dissect it. When you're about to be here by a bullet, you don't want to see your guy crouch before he jumps. You want him off the ground as soon as possible.
+
+ SPEAKER_02 [0:15:11.781 --> 0:15:13.384]: 
+  When you're about to get in the fight.
+
+ SPEAKER_02 [0:15:14.954 --> 0:15:15.899]: 
+  You don't really, yeah.
+
+ SPEAKER_02 [0:15:18.194 --> 0:15:26.159]: 
+  There's that game that Paul Robertson art where they did that, where the... To No Fall of Azoni animated the character crouching down and jumping, but they left that in the game, so...
+
+ SPEAKER_04 [0:15:26.159 --> 0:16:38.957]: 
+  It always feels like there's this annoying delay in the gameplay. It'd be like Mario pausing for like a second before he jumps. Yeah, it's awesome. He's got a coil his legs up and then throws momentum. I don't mean to like rattle. It can be hard, it did do that. I don't want to rattle, it can be hard. It can be hard to soap fuck. But every single fucking time, Sora's clunky ass jumped. He had to pause and then jump into the air like an asshole. So he could not avoid anything. When he lands, he takes a few seconds. Yeah, he also had to have an animation of him recovering from his landing. And that's a tough thing too, because sometimes you could say it's a part of the game. They learn these mechanics, they adapt around it. So there could be like a positive argument for some of it, but I prefer feeling as much control as possible at all times. You want to jump immediately. You want that evasion. You don't want to have to know, okay. See that's the thing, right? Have you played Abe's Odyssey or Heart of Darkness? It's like the same thing. I was about to say Heart of Darkness. It feels good in those though. But have you played GTA 4 or 5? Every time you're turning around, your character stops and skids on the ground and then takes a few seconds to start running back and it always felt weird. Or if you're on the side of a building in GTA 4 looking down, if you push up on the controller, he won't just edge forward in an old game. He'll take a full step forward and he'll fall off every single time. Yeah, or if you're on the edge of a building and you've
+
+ SPEAKER_03 [0:15:32.335 --> 0:15:37.212]: 
+  Yeah, yeah, he's got a coil his legs up and then throw his momentum
+
+ SPEAKER_01 [0:15:37.094 --> 0:15:38.190]: 
+  I don't mean to like, man.
+
+ SPEAKER_00 [0:15:47.370 --> 0:15:49.007]: 
+  So you could not avoid it.
+
+ SPEAKER_02 [0:15:49.007 --> 0:15:50.037]: 
+  What are you laughing at?
+
+ SPEAKER_00 [0:15:50.037 --> 0:15:50.847]: 
+  Also had to have-
+
+ SPEAKER_01 [0:15:59.470 --> 0:15:59.740]: 
+  You
+
+ SPEAKER_00 [0:16:05.275 --> 0:16:06.692]: 
+  Yeah, when you jump, you want to jump.
+
+ SPEAKER_01 [0:16:10.557 --> 0:16:11.603]: 
+  See that's the thing, right?
+
+ SPEAKER_00 [0:16:14.860 --> 0:16:16.446]: 
+  As soon as it's about to say it, it's hard to darkness.
+
+ SPEAKER_03 [0:16:36.375 --> 0:16:47.749]: 
+  Yeah, or if you're like on the edge of a building and you like you're going forward and you decide I want to jam the controller back so now we walk towards me So now you don't know is he gonna turn left yeah fall off the building is he gonna turn right? Yeah go why?
+
+ SPEAKER_04 [0:16:43.125 --> 0:16:43.328]: 
+  me.
+
+ SPEAKER_02 [0:16:43.227 --> 0:16:44.492]: 
+  So now he'll be like, you don't know what he's doing.
+
+ SPEAKER_04 [0:16:44.492 --> 0:16:45.539]: 
+  Is he gonna turn left?
+
+ SPEAKER_04 [0:16:46.905 --> 0:17:37.075]: 
+  Yeah, because in Vice City it was coded like simply so like you tap W and he'll just take a really quick step forward and stop instantly And then these games are like we want to make him animated more So they'll like take a full fucking walk around every time you try and just edge backwards Have you ever noticed on a ps3 controller? Because I think I've had it happen on multiple controllers the analog stick has like a spring back where it will actually like if you're holding right And you release it a little bit so far. Yeah points left What really like when I play rogue legacy now I play it with like the plus pad because I keep any up in these situations where I'm facing the opposite way of an enemy But I know it happened to me in castle 2 on ps3 And I think I've had it happen like on multiple ps3s with multiple controllers We're gonna think it's now it's like sensitive to the point where no matter where like you actually move back Yeah, and part of that could be in the game code of because you can check the sensitivity of the controller So we sort of have a variable that we set for our sensitivity level so it's not like
+
+ SPEAKER_03 [0:16:59.646 --> 0:17:00.456]: 
+  towards Google Again and
+
+ SPEAKER_03 [0:17:09.164 --> 0:17:11.796]: 
+  It springs back so far that you're trying to points left. Well, really?
+
+ SPEAKER_01 [0:17:22.444 --> 0:17:25.009]: 
+  PS3s with multiple controllers.
+
+ SPEAKER_03 [0:17:37.075 --> 0:17:41.614]: 
+  There's only so much of that threshold where you start to move the stick where it doesn't feel like the controller.
+
+ SPEAKER_04 [0:17:38.459 --> 0:18:14.504]: 
+  Yeah, it's it feels like the controller is still sending too much info I always hated that too like where you're like moving and then suddenly you stop and then there's like that way period And I also what you're talking to where it's like that 3d space where they have to like almost take a whole other walk around So if you had to turn on an edge you were already going off It's like I've never gotten used to I've been like playing GTA 4 since it came out and every time I'll push back in the control He'll like walk around circle and always fall off granted that a three is like you those games you like you're running like an ass Well, you turn on a dime like you the same way red-bed redemption. Yeah, like they're just super animated So they'll always be running all over the place. Yeah, you're trying to
+
+ SPEAKER_02 [0:18:03.113 --> 0:18:03.940]: 
+  Always fall off.
+
+ SPEAKER_01 [0:18:03.501 --> 0:18:03.923]: 
+  wall off.
+
+ SPEAKER_01 [0:18:08.969 --> 0:18:10.437]: 
+  It's the same with Red Dead Redemption 2.
+
+ SPEAKER_02 [0:18:10.437 --> 0:18:10.825]: 
+  Yeah.
+
+ SPEAKER_03 [0:18:13.660 --> 0:18:47.089]: 
+  Yeah, yeah, you're trying to do simple action. Yeah, just like you guys are talking that you've designed an idle animation That's great. So now the run animation has to be great and the transitions need to be great So that's what they did when GTA 4 transitioned out of three and five did the same exact thing They've set the standard for everything looking good. It's a it's like not just a game, but a simulation They're putting you into that with this character. They're also simulating the realism of a character how he would walk, right? Yeah, which unfortunately you're not him You only have a controller for the wide range of motions that a human being can do in that scenario and that level of complication They've stuck to it. They can't make it simple
+
+ SPEAKER_04 [0:18:47.089 --> 0:20:21.522]: 
+  And what's also important is not to be too overly animated. Like you can be animated, but not to a point where you just have so much exaggeration and movements because you're gonna be seeing that a lot. And that's gonna become very obnoxious when you're in like the heat of the moment and you have this like asshole like really flailing around and really getting into it. You're just like, I didn't want this and now it's like I'm dying because I'm trying to figure out what's going on. It's weird because it's kind of like a weird puzzle how like Jeff, you and Tom like fucking somehow make these things work where it's like a prior animation fits perfectly with another animation. But since it's going so fast, it like tricks the eyes and you just sort of assume that it goes in clean. But if you actually broke it down frame by frame, you would see that it's like a different animation. This is an interesting topic in like fighting games. The combat like in Castle Crashers when you're tapping your attack button. Yeah. When you finish a move, there's like a little window where if you hit the button again, it will continue the combo. Yeah. And something in the game we're working on now sort of expanded on that and have it, let's say before the animations finish of the move, if within a few frames you've hit the button for the next move, it'll like log that and then run it when that move's done. So it's sort of like a little bit of before and after and I wasn't sure there's an official term. Someone told me it's called buffering. Yeah. But yeah, people get mad with that in Dark Souls where you'll do it like over buffer. Yeah. Yeah, that's something too. Because some games I think maybe in Dynasty Warriors, like if I just mashed the button four times fast, then you can just sit back and watch them do this long four hit combo. And what we did, it's a smaller window than that. So you can't queue up four attacks at once. Like at best you could just get the next move. I think texting does it.
+
+ SPEAKER_00 [0:19:57.441 --> 0:19:58.352]: 
+  sure there's an official term
+
+ SPEAKER_00 [0:19:59.483 --> 0:19:59.500]: 
+  you
+
+ SPEAKER_02 [0:19:59.500 --> 0:20:00.782]: 
+  Yeah, but yeah.
+
+ SPEAKER_02 [0:20:03.921 --> 0:20:04.950]: 
+  Over buffer?
+
+ SPEAKER_00 [0:20:04.950 --> 0:20:05.001]: 
+  you
+
+ SPEAKER_01 [0:20:05.001 --> 0:20:05.355]: 
+  Yeah, that's it.
+
+ SPEAKER_03 [0:20:20.813 --> 0:20:26.837]: 
+  I think texting does that or did that. Like you have to have already input most of the commands for the attack you're about to like sequence.
+
+ SPEAKER_04 [0:20:26.145 --> 0:20:32.575]: 
+  I always liked how Tekken fighting system was. I was a big fan of how Tekken was. I hate Tekken. Like you could punch in most of the commands of the beat...
+
+ SPEAKER_03 [0:20:30.330 --> 0:20:35.747]: 
+  Like you could punch in most of the commands at the beginning and just watch your guy finish his combo. That was still timing, but...
+
+ SPEAKER_04 [0:20:34.212 --> 0:20:40.287]: 
+  That was still timing, but I guess we might have been the characters you play as like you play as the law. Yeah, well
+
+ SPEAKER_03 [0:20:39.764 --> 0:20:45.366]: 
+  I think it was Law. Law was like the Bruce Lee day, right? Yeah, Law. Slash, uh, Fade Long, Slash. Law had really cool, like, uh...
+
+ SPEAKER_04 [0:20:42.362 --> 0:21:33.494]: 
+  Yeah, long slash really cool like he had really cool like time-tinted stuff I can't get into fighting games. I just can't do it dude. I played Tekken fucking I Was like 13 14 one thing I will say though is that like ever since I was younger I thought Tekken was really boring and it had no charm and even though I don't like fighting games I still think Street Fighter has the most charm out of all street fighters and Dude that game is fucking nuts. Yeah, it's insane It's like just like and this is coming from somebody who's completely ignorant. I didn't understand evil I thought evil was just a bunch of rowdy people throwing fucking TVs and punching each other I thought it was like a mosh pit I was just like why are these assholes get so excited over fucking fighting games and then I sat down and watched it And I was legitimately enthralled. I was like these motherfuckers are like insane They're like human computers that can just read people and it's not yeah once again
+
+ SPEAKER_01 [0:20:47.239 --> 0:20:47.948]: 
+  We can't get in the park.
+
+ SPEAKER_00 [0:20:47.948 --> 0:20:48.994]: 
+  I just can't.
+
+ SPEAKER_02 [0:20:53.061 --> 0:20:54.276]: 
+  One thing I will say though is that
+
+ SPEAKER_01 [0:21:02.207 --> 0:21:03.524]: 
+  Streeteries andキ5
+
+ SPEAKER_03 [0:21:20.264 --> 0:21:20.685]: 
+  What?
+
+ SPEAKER_02 [0:21:32.987 --> 0:21:47.922]: 
+  Yeah, once you understand the mechanics of the game, you realize these guys are making decisions on like 1 1 1 1 1 1 It's insane And there's so there's so many things that are done that are so smart And nobody really even appreciates it because they don't really understand what they're even saying Exactly That's with TV
+
+ SPEAKER_04 [0:21:38.219 --> 0:21:39.434]: 
+  It's insane.
+
+ SPEAKER_04 [0:21:46.842 --> 0:21:58.452]: 
+  That's with TVs too like I guess the best TV the input lag on a TV is something like 18 milliseconds Is like the best you can do fighting game players are a music computer. You can use a gaming computer monitor
+
+ SPEAKER_01 [0:21:53.727 --> 0:21:54.942]: 
+  This is like the best you can do.
+
+ SPEAKER_00 [0:21:54.942 --> 0:21:56.005]: 
+  Fighting game players are
+
+ SPEAKER_02 [0:21:56.005 --> 0:21:57.844]: 
+  use a computer
+
+ SPEAKER_02 [0:21:58.452 --> 0:22:12.947]: 
+  biggest hipsters in it. Not even hipsters. They want the least lag humanly possible.
+
+ SPEAKER_04 [0:22:03.329 --> 0:22:03.734]: 
+  the U.S.
+
+ SPEAKER_03 [0:22:04.544 --> 0:22:10.011]: 
+  They'll butt in there. Yeah, afternoons, diggers, but first Smash Brothers. Just a practice for tournament level.
+
+ SPEAKER_04 [0:22:12.947 --> 0:22:19.495]: 
+  They're these super special low lag TVs. They have no controls on them. They have bare minimum.
+
+ SPEAKER_02 [0:22:19.495 --> 0:22:23.950]: 
+  Fighting game players would like special order these stupid things like the least anyway
+
+ SPEAKER_04 [0:22:23.562 --> 0:22:36.302]: 
+  Wait that that's something that really annoys me about Uncharted. Uncharted has like lag like built into the controls anyways So like Uncharted 3 I couldn't play because my TV had lag and Uncharted had lag so it was unplayable
+
+ SPEAKER_03 [0:22:30.987 --> 0:22:31.172]: 
+  So
+
+ SPEAKER_03 [0:22:36.235 --> 0:22:39.745]: 
+  What is the purpose of the line? Is it like contextual so that you are interpreted?
+
+ SPEAKER_04 [0:22:38.277 --> 0:23:34.504]: 
+  that you know are interpreted there's no purpose is it was the fuck up it's like um had you ever played a donkey Kong 64 no they actually compensated with the lag I think rare thought of this in the future like when things lagged they made your character move faster huh so when environments were lagging you moving faster made you think oh it's completely normal like I'm just moving fast and you can like see the difference where if you like had a character who long jumped if you made a ton of lag and then long jump you would go like a hundred feet forward and I don't think they realized that people would shoot like a hundred oranges that would explode and then you just long jump afterwards and fucking logic cross the screen and walls and but it is like something that's like kind of really smart because it's like if you remember if you were actually playing dot-con there's that game was fucking filled to the brim with shit that lag it's different from input lag it's it was kind of the same thing because there was also like a delay with the lag because it was like no memory on the n64 it was so minimal there was input lag and actual yeah it was
+
+ SPEAKER_02 [0:22:41.989 --> 0:22:42.006]: 
+  you
+
+ SPEAKER_03 [0:22:42.006 --> 0:22:42.563]: 
+  It's like...
+
+ SPEAKER_01 [0:22:52.350 --> 0:22:52.536]: 
+  뭐야
+
+ SPEAKER_03 [0:23:33.728 --> 0:23:49.034]: 
+  Well, yeah, it was there to render like base level objects to make everything look like a like a weird polygon world the turn Yeah, and then Donkey Kong was just a bunch of like pre-rendered stuff wasn't it? He's talking about 64 the 64 right yeah, yeah something that much
+
+ SPEAKER_04 [0:23:43.161 --> 0:23:46.755]: 
+  It was all like
+
+ SPEAKER_04 [0:23:48.274 --> 0:24:44.603]: 
+  Something that might have been related to that is they're trying to make the game look like you're moving just as quickly Even though the frame rate has been reduced Yeah, I think it's something that they were probably doing wrong and I can't explain the math behind this Mike Mike can explain it I've been talking about this by the way If you have a game that runs at 30 frames per second and when you press jump Let's say you put a negative 20 as your speed and your gravity is 1 and that makes your character go up like negative 20 negative 19 negative 18 and eventually they hit 0 and then they become positive 1 2 3 and they fall back down Yeah, so if you're doing that at 30 frames per second and then you change your game to 60 You think you can just cut all those values in half and you'll get the same result just smoother like oh It'll be negative 10 and half point five gravity and he'll he'll move up to the same amount and fall But it's different though like it changes really yeah You know twice the frame rate and half the values does not work They ran in like sometimes I'm 30 obviously is the highest they could go but sometimes it went to like 12
+
+ SPEAKER_01 [0:23:55.665 --> 0:23:57.454]: 
+  Yeah, I think something that
+
+ SPEAKER_03 [0:24:01.538 --> 0:24:03.512]: 
+  I've been talking about this by the way.
+
+ SPEAKER_02 [0:24:35.490 --> 0:24:36.233]: 
+  Yeah, even though...
+
+ SPEAKER_03 [0:24:44.485 --> 0:25:10.911]: 
+  12 or like 15. Well, have any of you guys played Fallout 4 yet? Because I had this conversation with Mike. I don't know if he sent you the video. He sent this to me, he's like, here you go, Swain. Don't worry, this happens to everybody. And he shows me that Bethesda really screwed up with Fallout, where the game speed is tied to your frame rate, which is insane. If your game is running at like 120 or something insane like that, you're zipping around. You drop stuff, it falls. Yeah, it's crazy. Animation speeds, movement speeds, and physics speed.
+
+ SPEAKER_02 [0:25:10.557 --> 0:25:14.894]: 
+  I think I read the same thing that deals with the new Halo. The physics are tied to the frame rate.
+
+ SPEAKER_03 [0:25:14.894 --> 0:25:18.252]: 
+  It's a screw up. It's the difference between...
+
+ SPEAKER_04 [0:25:18.117 --> 0:25:20.496]: 
+  I haven't seen that happen since when it was 98.
+
+ SPEAKER_02 [0:25:19.652 --> 0:25:25.103]: 
+  They've been using the same game engine for like 20 years. They have, yeah. It's really, really great. That's the only time I've ever seen it.
+
+ SPEAKER_04 [0:25:22.116 --> 0:25:22.960]: 
+  They have, yeah.
+
+ SPEAKER_04 [0:25:24.192 --> 0:26:38.408]: 
+  The only time I've ever seen that happen was with the Simpsons cartoon studio. Yeah, I remember that. The game we're working on right now has a lot of lip syncing in it. So I generate data on the lip syncing, and right now that data is basically ticks on a timer where it's like the mouth will be here one second in, two seconds in, but it's all just ticks of frames. And because it's ticks of frames, if you have slowdown, like let's say the game doesn't have any slowdown local play, but in online play it starts to slow down or something, then the lip syncing wouldn't keep up with the voice. So I need to change it to actually look at your clock. Like instead of looking at the ticks, it has to look at the clock and be like, oh, a second has passed. Oh wow. Regardless of how many ticks, whether it's gotten 60 ticks or 30 ticks. That was an issue I had when I was like fucking around with game audio and stuff, because I was always trying to learn the difference between streaming audio, having an audio and a movie clip, and just trying to understand the difference. And I was just like, obviously streaming audio is what I was so used to. So I was like, I'm just trying to make a game with streaming audio. It's easy. I'll just put a game with 150 frames and then I'll put the fucking audio and it just ends up looping infinitely. Because you run into all these like some airs. You could skip frames. You have flash will skip frames in order to make the animation keep up. That's good for lip syncing and flash. You set it to stream and your animation will skip frames and it has to in order to keep up with the audio track.
+
+ SPEAKER_02 [0:25:27.752 --> 0:25:29.153]: 
+  Yeah, I remember that.
+
+ SPEAKER_01 [0:25:54.094 --> 0:25:54.162]: 
+  Thank you.
+
+ SPEAKER_01 [0:25:54.955 --> 0:25:55.731]: 
+  Check out theиту infect
+
+ SPEAKER_01 [0:25:58.482 --> 0:25:58.802]: 
+  Me.
+
+ SPEAKER_01 [0:26:18.630 --> 0:26:19.170]: 
+  Easy.
+
+ SPEAKER_01 [0:26:26.140 --> 0:26:28.367]: 
+  Yeah. Because you run into all these like some air. You could skip Sprite.
+
+ SPEAKER_01 [0:26:37.952 --> 0:26:38.357]: 
+  Yeah.
+
+ SPEAKER_02 [0:26:38.357 --> 0:26:51.975]: 
+  That's, I think, the unique thing about what we're... Even though it's not new or unique really, but we have characters built out of multiple pieces. So the head is always separate. So the head can just do whatever it wants at any point. It can talk and can... Eyes can look around.
+
+ SPEAKER_04 [0:26:51.486 --> 0:27:43.326]: 
+  Yeah, the main idle head is actually very animated one way I always like to look at these games is a like as a kid I was really into video games and then dragons layer came out in arcades And everybody everybody would say how dragons layer had the best graphics of any game and I it made me mad because I knew they were cheating They were just yeah, and that was like the beginning of quick-timer events Which I've never liked quick-timer events, but um yeah I didn't like it how they were like cheating because it wasn't if they think they took away so much playability Movie and there's like that scale where you had dragons layer on one end and you had like Prince of Persia Which was sort of like in the middle there, and then you had like real twitch gameplay You know responsive gameplay on the on the far left of that and so I like to look at it now Is like I want games to look as much as possible like if someone's watching you play a game I want to look as much as possible like they're watching a cartoon on TV But I also want it to be like totally responsive controls. That's kind of what we're aiming for. Yeah, I want to be like you're playing
+
+ SPEAKER_01 [0:27:16.360 --> 0:27:19.229]: 
+  They took away so much playability and there's like that
+
+ SPEAKER_01 [0:27:40.559 --> 0:27:40.677]: 
+  Thank you.
+
+ SPEAKER_02 [0:27:40.677 --> 0:27:54.835]: 
+  It's kind of what we're aiming for. Yeah, I don't have to be like, you're playing a cartoon. That's pretty much what it is. Here's a question for Tom, everybody. Like, what old Scarcade game, and you're like, what were you most impressed by that you're just like this? Like Mortal Kombat for me, first time's the only one. Mortal Kombat.
+
+ SPEAKER_04 [0:27:44.642 --> 0:27:47.663]: 
+  That's pretty much what it's... Here's a question for Tom, everybody.
+
+ SPEAKER_03 [0:27:52.388 --> 0:28:00.994]: 
+  Mortal Kombat for me first time. Mortal Kombat. Yeah, the pre-rendered stuff. It tricked me. I thought okay. Yeah, like this is hand-drawn This is amazing. Yeah, I mean that's but that was what everybody
+
+ SPEAKER_02 [0:27:58.547 --> 0:27:58.902]: 
+  Yeah.
+
+ SPEAKER_02 [0:27:59.610 --> 0:28:00.184]: 
+  That was what was going on.
+
+ SPEAKER_04 [0:28:00.184 --> 0:29:21.555]: 
+  Everybody everybody was gonna blown away the most impressive stuff like 3d. I think like the real like 3d game I had at the time. It was like Road Rash. Road Rash 3d. Oh really impressed me. Yeah, that was that was a really good game One of the only good 3d game. Oh my god, you wrote a hash that game. I love that game Going back to like arcade stuff one of my earlier memories is Double Dragon just how much fun double dragon was and jump in with somebody because double dragons still did some things that like people Haven't really done since like doing like the full Nelson where enemies can have you in a full Nelson and punching you and stuff like that and And fighting each other at the end which that's something that was adapted in the castle crash Streets of rage to just rip that shit off. They just it was streets of rage was like, you know, this is double dragon for Sega Yeah, and it's still good. It's really fucking good. It's really good. But like it's like you play it after a while You're just like this game is too fucking long If you play it on hard you're just like I give up I can't get past that this shit Well another game it was really cool that no one ever really saw anything else of do you remember attack of the plan of the robot Monsters or escape from the plan of the robot monsters It was like this isometric game that part of what makes it stand out my memory so much is because there never was a home version I think there might have been a computer version and It was sort of like an isometric run around and shoot at these like robots It kind of had like I don't have like a 60s sci-fi vibe to it. It's like symmetric
+
+ SPEAKER_02 [0:28:00.994 --> 0:28:02.462]: 
+  Everybody was kind of blown away.
+
+ SPEAKER_01 [0:28:02.395 --> 0:28:02.445]: 
+  you
+
+ SPEAKER_02 [0:28:08.470 --> 0:28:11.085]: 
+  Rodex 3D. Yeah, it really impressed me even though.
+
+ SPEAKER_00 [0:28:09.938 --> 0:28:10.005]: 
+  Thank you.
+
+ SPEAKER_02 [0:28:12.216 --> 0:28:12.604]: 
+  one of the
+
+ SPEAKER_01 [0:28:14.292 --> 0:28:15.760]: 
+  Oh my god, you wrote an hashtag.
+
+ SPEAKER_00 [0:28:24.417 --> 0:28:25.497]: 
+  That'll slow you down.
+
+ SPEAKER_01 [0:28:25.497 --> 0:28:26.594]: 
+  And it's interesting because
+
+ SPEAKER_01 [0:28:37.900 --> 0:28:39.452]: 
+  Castle Crashers.
+
+ SPEAKER_00 [0:28:40.380 --> 0:28:40.853]: 
+  Okay.
+
+ SPEAKER_00 [0:28:44.228 --> 0:28:47.502]: 
+  Yeah, and it's still good. It's really fucking good
+
+ SPEAKER_00 [0:29:03.415 --> 0:29:06.284]: 
+  or escape from the plan of the robot monsters?
+
+ SPEAKER_01 [0:29:12.848 --> 0:29:13.962]: 
+  And uh...
+
+ SPEAKER_03 [0:29:20.475 --> 0:29:23.648]: 
+  Like smash TV
+
+ SPEAKER_04 [0:29:22.146 --> 0:29:26.500]: 
+  A little bit like that, but they have more cartoony after
+
+ SPEAKER_02 [0:29:26.500 --> 0:29:32.423]: 
+  burner, it blew my mind. Yeah, the scaling. It was just so fast and just, I don't know, just amazing.
+
+ SPEAKER_04 [0:29:32.389 --> 0:30:14.948]: 
+  Metal Slug 3 is like amazing graphics for this game. Yeah, Metal Slug. I remember being at like some shitty like hotel looking place and they had it there and I just remember spending like $20 worth of quarters and just playing the fuck out of it for like four hours. What the hell was that tank game? That was the cool thing about arcades too back then. I go on this rant sometimes about this magic that's left the world because you didn't have the internet and you when you went to the mall you had no idea what new game was gonna be the arcade and how it was gonna like completely change your perception of reality. Like one day you'd walk in the arcade and there'd be Street Fighter and people line up to play Street Fighter and one day you'd walk in and it'd be virtual fighter where it's like 3D polygons. Oh yeah. And it's like it was always the most cutting-edge stuff and you had no idea it was coming. That just made it magic and that's it. There's always like little thing like the four player action.
+
+ SPEAKER_01 [0:29:34.988 --> 0:29:35.022]: 
+  you
+
+ SPEAKER_02 [0:29:35.022 --> 0:29:35.190]: 
+  Yeah.
+
+ SPEAKER_00 [0:29:52.943 --> 0:29:53.213]: 
+  You didn't do it.
+
+ SPEAKER_02 [0:30:06.899 --> 0:30:07.945]: 
+  Polygons.
+
+ SPEAKER_00 [0:30:07.945 --> 0:30:08.114]: 
+  And
+
+ SPEAKER_02 [0:30:12.737 --> 0:30:13.058]: 
+  That's all.
+
+ SPEAKER_02 [0:30:14.948 --> 0:30:25.950]: 
+  Xmon arcade game they to make it look like an extra long monitor they had one monitor and there was a monitor below it that was mirrored up which eliminated the scene between the monitors and look like one 6 player
+
+ SPEAKER_04 [0:30:24.229 --> 0:30:28.094]: 
+  and look like one six player six player it was really cool
+
+ SPEAKER_02 [0:30:27.014 --> 0:30:41.492]: 
+  It was really cool. Wow. When you guys are programming games, what do you think? What do you think is something that's hard to do that just is not appreciated whatsoever by people? Like, I think one thing was the camera. Like, I know Tom and I, the camera stuff is always this really complicated thing.
+
+ SPEAKER_04 [0:30:35.215 --> 0:30:35.451]: 
+  Yeah
+
+ SPEAKER_04 [0:30:38.016 --> 0:30:39.653]: 
+  Oh yeah, camera, yeah. Camera stuff.
+
+ SPEAKER_03 [0:30:41.492 --> 0:31:24.945]: 
+  that nobody thinks about. Originally, Tom, I ran Project Nexus 1 by you in the beginning. You were the one who first said, okay, so when you get to the edge of a map, you get to it. The camera, you know, maybe the camera should stop and then you continue to walk, but the camera stops moving so that you're like not approaching this door and you have like half a screen of just black nothingness, right? Of empty negative space. Like, yeah, great. That's perfect. I love that. So I just, I typed it in, I coded it in. Camera's X position can't go past this, which is to say in Flash that you don't drag the world past a certain point. Like, done. So it's moving and not a camera? Oh, yeah, there's no such thing as a, I mean, there is a camera. You can do virtual cameras in Flash. So when a guy walks this way, what you're actually doing is moving your movie clip inside, like the character inside the movie clip of the background. And then you drag the whole background of proportionate.
+
+ SPEAKER_04 [0:31:12.441 --> 0:31:12.458]: 
+  you
+
+ SPEAKER_02 [0:31:24.135 --> 0:31:24.152]: 
+  you
+
+ SPEAKER_04 [0:31:24.152 --> 0:31:30.936]: 
+  So you're saying when you make a game and you're like a 2D game and you're moving the world to suit the camera that doesn't affect the memory like
+
+ SPEAKER_03 [0:31:30.936 --> 0:31:42.951]: 
+  the same way a camera would? I'm not saying it's not, but as far as I know, I never messed with any virtual cameras, so I couldn't say as to how they were doing it. Right. But I'm assuming it must be something that's tricking the flash into working basically the
+
+ SPEAKER_02 [0:31:42.495 --> 0:31:42.985]: 
+  What are you doing?
+
+ SPEAKER_04 [0:31:42.546 --> 0:31:48.503]: 
+  You know what I hate in 3D games, what you're talking about? When the camera will like automatically pan behind a character after like a few seconds.
+
+ SPEAKER_03 [0:31:48.503 --> 0:32:48.747]: 
+  Well 3D is such a massive pain because the reason I brought up the Nexus one example is we have a very similar system in Nexus 2 Where we have it's 3D. It's full 3D But the levels still basically go side to side and I needed to find a way I don't I couldn't need to tell you how I finally did it and I'm pretty sure it's just a bunch of made up like nonsense But to get that same effect in 3D where you hit the edge of a rail that overlooks the city And you want to give them a little bit of a view yeah if they keep going But you don't want to just like cut it off like right there So like getting those like these little markers in place that the camera understands whether or not it's it's within the view of the camera Right and also being able to deal with because you're no longer doing a flash cam where you designed the aspect ratio Now you're making a game for any aspect ratio for any TV screen or monitor that plays this you got to account for that now I was running into this stupid but but totally reasonable problem where if somebody's playing us like an ugly looking like square monitor When they get to the edge of the map, they're gonna like lose most of the map So now I've got to account for the aspect ratio of the viewpoint as well. I hate I hate the camera
+
+ SPEAKER_04 [0:32:46.317 --> 0:35:25.330]: 
+  I hate the camera. It is my worst enemy. I always felt like another thing that in general like how collision works. There's a lot of factors to collision like when you see games where it's like you run really hard and some like Climbing right when you like show through the wall. Yeah, and we're talking 3D right? Yeah, because titles are the great. Because it's like for instance there's like parts where it's like layers that have to overlay So the character has to know that the code tells them to go through it It's really interesting to try and make things look natural or even like the water effects and stuff Because I was just spending time jumping around the water when I jump sideways the water actually Tilted with me in which game our game when you work. Yeah when you the water actually like tilted and then when I jump straight up It goes straight up. Yeah, I'm like really high like delays. There's just all this like fucking different shit It's just like how does it mean it plus just just adding just having some water on the ground Yeah, it's basically like as soon as you land in that water you have a mask over your body It's basically showing that part of you above the water line But also, you know your shadow is always looking to be at your feet But once you're in water your shadow actually moves up to be around your body sticking out of the water Oh really and that makes some weird things happen because I would like reference certain things based on where your shadow is too So it's like that all gets weird when you start messing with the shadow And then it's also when you jump when you jump out of the water You're no longer in the water, but it realizes your shadow still in the water So your shadow still appears on the top of the water instead of being on the platform that's under the water Yeah, yeah, it's like the crazy thing is Tom you think about that most fucking people don't even think about that That's another one of the problems with making a game because the artwork is so good the better the game looks the more Challenges you run into with things that you just can't get away with things anymore And there's all sorts of weird things like so it's our games It's 2d, but it doesn't play 2.5d because it is like straight side scroller But it's visually 2.5d where you see the floor that you're standing on instead of like a straight line Yeah, and when you see a door on the wall, it's sort of like a 3d perspective that you walk through So like when you walk through that doorway there has to be a layer of artwork that's in front of the player So I'll let us be fine, right? Yeah, and the layer is behind but where it gets weird is like where does that layer end? You have to decide where that cutoff is because that's where you kind of get the clipping effect where like you can swing your weapon It can vanish behind some art above the door. Yeah, because somewhere it has to end And there's like the background like parallax scrolling like that's also like you introduced that mechanic where now you can actually like go into the Background into the layer of the scrolling like background. So now you have two Sections and you also have to like if you're punching and fighting enemies back there. It's just like it's I don't have you guys
+
+ SPEAKER_03 [0:32:56.509 --> 0:32:57.505]: 
+  Clipping, right?
+
+ SPEAKER_03 [0:32:59.395 --> 0:33:03.293]: 
+  We're talking 3D, right? Yeah. Because tile is hard to break.
+
+ SPEAKER_03 [0:33:21.889 --> 0:33:23.897]: 
+  in which game? Our game. The one you're working on.
+
+ SPEAKER_02 [0:33:27.897 --> 0:33:28.977]: 
+  Yeah, it kind of follows your motion.
+
+ SPEAKER_01 [0:33:37.769 --> 0:33:38.207]: 
+  Yeah.
+
+ SPEAKER_00 [0:33:43.169 --> 0:33:45.987]: 
+  It's basically showing the part of you above the waterline
+
+ SPEAKER_00 [0:34:11.130 --> 0:34:11.737]: 
+  Oh yeah.
+
+ SPEAKER_01 [0:34:18.150 --> 0:34:18.944]: 
+  That's another one of the problems.
+
+ SPEAKER_00 [0:34:18.944 --> 0:34:19.871]: 
+  with making a game.
+
+ SPEAKER_01 [0:34:51.664 --> 0:34:51.951]: 
+  But
+
+ SPEAKER_01 [0:34:56.237 --> 0:34:58.245]: 
+  Where does that layer end?
+
+ SPEAKER_03 [0:35:03.966 --> 0:35:04.945]: 
+  above the door.
+
+ SPEAKER_01 [0:35:04.945 --> 0:35:05.519]: 
+  Yeah.
+
+ SPEAKER_00 [0:35:13.838 --> 0:35:14.007]: 
+  in the next video.
+
+ SPEAKER_01 [0:35:14.007 --> 0:35:14.243]: 
+  Hmm.
+
+ SPEAKER_03 [0:35:21.449 --> 0:35:21.617]: 
+  Yeah.
+
+ SPEAKER_03 [0:35:22.748 --> 0:35:35.421]: 
+  I don't envy you guys dealing with depth, like in 2D. I don't miss that. Like working in 3D, it's pretty easy. The shader dictates it and it's done. That pixel's in front of another one, let's move on. Yeah. In 2D, man, that was a nightmare. I think I might do a background after that.
+
+ SPEAKER_02 [0:35:33.480 --> 0:35:39.437]: 
+  Anyhow, I might do a background. I have to think about it in layers and how these doors are moving with each other.
+
+ SPEAKER_04 [0:35:39.201 --> 0:35:45.495]: 
+  And I don't think about that, Jeff. I'm just gonna fucking make this messy sketch and give it to Jeff and let it... Let's see what Jeff...
+
+ SPEAKER_02 [0:35:45.495 --> 0:36:19.279]: 
+  Cory and I have this system where, you know, I'm overly... The overly detailed, I like moving, I like tweening and moving symbols, or I like making like detailed parts and moving around. Sometimes that hampers my creativity a little while, instead of like, redrawing a character spinning around, I'm just like, I'll try to do it with some parts I already have. But Cory's like, fuck that, I'm just drawing every frame, drawing every frame, doesn't fucking matter, and I'll give it to Jeff and let him fucking deal with it. But at the end of the day, it makes it look better. It forces me to say, alright, I'm just gonna have to redraw all this, but it actually makes it look fluid and...
+
+ SPEAKER_04 [0:36:16.984 --> 0:36:17.204]: 
+  action.
+
+ SPEAKER_04 [0:36:18.874 --> 0:36:27.244]: 
+  I'm always worried that I might be doing too much. It might be because I have that slow, like, tweenish, like bounce effects and stuff.
+
+ SPEAKER_02 [0:36:26.991 --> 0:36:41.419]: 
+  We can always cut back, but it's good that, yeah, I mean, when I do like my punch combo and then I give it to Cory and he animates a rough new punch combo and I remake it with Cory's guide, then it just looks like 10 times better, so. I think we complement each other.
+
+ SPEAKER_04 [0:36:39.141 --> 0:36:45.047]: 
+  I think we compliment, I think we all compliment each other because we all kind of know what we're like talking about and stuff. It's a group effort.
+
+ SPEAKER_03 [0:36:43.883 --> 0:36:44.271]: 
+  Yeah.
+
+ SPEAKER_03 [0:36:45.047 --> 0:36:47.680]: 
+  How come you never asked Chris if he wanted to make the game with you guys?
+
+ SPEAKER_04 [0:36:47.680 --> 0:37:36.449]: 
+  Yeah, that was really mean. We did! He's here now! Oh, sure! Chris has been doing music! Yeah, Chris has been doing music. Yeah, that's true. He did a little bit. It's crazy though, because sometimes it just fits perfectly. If you go up to the boss and immediately starts and the music is like something from a cartoon where it's like set perfectly in sync. It's like the only thing you can bring to the table here is that I know how to make music suit a situation very easily. That's fucking important though for the kind of thing. It's actually been because the music was one of the big struggles where I guess early on I always pictured this 80s horror synth sound and I kept- Like a John Carpenter soundtrack kind of thing. I kept digging around for stuff and this nothing would work. And then when we finally, you know, Jeff had mentioned a few times of putting Chris's stuff in and then when we finally did then it just all worked. Tom made his face at me.
+
+ SPEAKER_01 [0:36:50.312 --> 0:36:56.134]: 
+  She's here now. Oh, shit. Chris has been doing music. Yeah, that's true. He's been doing music a little bit. It's crazy.
+
+ SPEAKER_03 [0:36:50.380 --> 0:36:50.430]: 
+  Thank you.
+
+ SPEAKER_01 [0:37:06.394 --> 0:37:07.997]: 
+  Perfectly the only thing it can bring you is...
+
+ SPEAKER_03 [0:37:24.282 --> 0:37:26.104]: 
+  like a John Carpenter soundtrack.
+
+ SPEAKER_02 [0:37:36.449 --> 0:37:42.287]: 
+  every time I said it, he's like, I'm one of my 80s. See Jeff one? Kidding, kidding.
+
+ SPEAKER_04 [0:37:39.722 --> 0:37:55.095]: 
+  See Jeff wanted Danny Elfman orchestral stuff and Tom wanted 80s synth slash chiptunes The chiptunes was actually placeholder that was never intended. I like Tom's idea
+
+ SPEAKER_02 [0:37:47.991 --> 0:37:48.447]: 
+  It's hard.
+
+ SPEAKER_02 [0:37:51.619 --> 0:38:00.293]: 
+  I like Tom's idea of what he wanted to do, but then every time... Okay, we animate everything, there's no audio. Then we played it...
+
+ SPEAKER_04 [0:37:59.939 --> 0:38:01.997]: 
+  played it with a little bit of music and would like,
+
+ SPEAKER_02 [0:38:01.542 --> 0:38:12.409]: 
+  And we're like something's missing here. This is really weird to like realized cuz I had so much shit going on in the background We needed ambient audio so we need like gear grinding noises and things and wind and
+
+ SPEAKER_04 [0:38:12.308 --> 0:38:29.655]: 
+  Yeah, that's another thing we don't get away with. In old games, no one had to- no one thought about what sounds the backgrounds were making, like in old 2D games. We're on that right now, Naras. Now everything has to make a sound. Like, you can't have something on the screen that looks like it would make a noise. Sometimes just Ambience by itself really works too. It does. It does, yeah. It depends on the context, yeah.
+
+ SPEAKER_02 [0:38:18.012 --> 0:38:20.172]: 
+  We're on that right now.
+
+ SPEAKER_03 [0:38:27.360 --> 0:38:29.571]: 
+  It does, it does. It depends on the context, yeah.
+
+ SPEAKER_02 [0:38:29.520 --> 0:38:39.156]: 
+  We had that and we had the characters then start talking and then we needed then we're like, okay Now we need music that isn't gonna drown out the talking which is also another challenge
+
+ SPEAKER_04 [0:38:38.633 --> 0:40:03.902]: 
+  That's an important thing about your music too because a lot of musicians they max out all their levels because they think it makes it sound louder And that sounds good to people a lot of times But that also completely drowns out the talking something that a lot of games do is when someone's or when a character starts talking They'll they'll mute the lead and we do that. Oh, they're just the lead instrument though. Yeah, so like there might be Like you know the drums the the bass and the lead and they'll mute the lead so Kingdom hurts a lot But there's like some like there's like examples where they just kind of like turn the audio down and I find to that works Yeah, yeah, but it's like it's actually better when they just kind of take that out and have like that ambient stuff because it's more organic That way so yeah, but when you're doing the music you can render the lead and the bit and then everything else behind it and have them both Playing on top and then the character starts talking and you'll just like turn down the lead the whole like the idea of like designing a game It really is like um, I guess there's a lot of factors you have to think about because there's a lot of like the one we're designing It's like is this fun to people like this? Is this a good idea? Well, this be fun is this gonna take too long and it's just like you you never think and then it all comes down like you You see these people like these games that get released and I didn't really want to get into a tangent about this But it's like kind of something there's people like so it's give sucks horrible Controls are terrible everything about it is bad and it's like they probably went through development hell because it's so fucking bad It's like there's probably some other reasons as to why it's like really controls terrible and stuff
+
+ SPEAKER_02 [0:38:49.450 --> 0:38:50.007]: 
+  a lot of games.
+
+ SPEAKER_00 [0:38:54.462 --> 0:38:55.677]: 
+  And we do that.
+
+ SPEAKER_03 [0:39:04.080 --> 0:39:07.135]: 
+  Oh, I know what you're talking about. They do that in Kingdom Hearts a lot. Again, again.
+
+ SPEAKER_00 [0:39:11.489 --> 0:39:13.007]: 
+  Yeah, that's fine too, that works fine.
+
+ SPEAKER_01 [0:39:13.007 --> 0:39:13.463]: 
+  Yeah.
+
+ SPEAKER_03 [0:39:17.935 --> 0:39:19.892]: 
+  Yeah, it's more organic that way. It feels better.
+
+ SPEAKER_03 [0:40:03.548 --> 0:40:09.420]: 
+  Yeah, they didn't like, alright, last day of work. We finished, we did it right on time. They hold on, he's like, mwah.
+
+ SPEAKER_04 [0:40:06.417 --> 0:40:07.935]: 
+  We did it right on time.
+
+ SPEAKER_01 [0:40:07.935 --> 0:40:08.459]: 
+  They hold up.
+
+ SPEAKER_03 [0:40:10.585 --> 0:40:18.735]: 
+  Exactly my magnum opus right that didn't happen like shit. We ran out of money I think people that we got to get this out the door. I just can't add it like the
+
+ SPEAKER_04 [0:40:17.487 --> 0:40:23.342]: 
+  They just can't add it like the big developers because they should know better than to release a game not finished They should just delay it or whatever
+
+ SPEAKER_03 [0:40:21.655 --> 0:40:50.984]: 
+  Yeah, yeah. But then that bitching and then that response has become the standard. I think that as long as companies are asking for pre-orders, that is to say we have no problems that our game will be good and that they can deliver whatever they want, it doesn't matter, it's been pre-ordered. As long as they're doing that, I think people have the right to complain about it being garbage. But when people are creating a quality product or trying to and it ends up sucking, there should be a level of like take it for what it's worth or leave it, you know? Exactly. Yeah. But it's like, you know... To me, it's like it's a standard that goes hand in hand. Yeah. Take the money for free, you know, in advance.
+
+ SPEAKER_04 [0:40:35.931 --> 0:40:36.623]: 
+  Yeah.
+
+ SPEAKER_00 [0:40:35.965 --> 0:40:35.982]: 
+  Thank you.
+
+ SPEAKER_00 [0:40:36.623 --> 0:40:36.960]: 
+  much.
+
+ SPEAKER_04 [0:40:43.103 --> 0:40:45.027]: 
+  Exactly. Yeah.
+
+ SPEAKER_03 [0:40:52.840 --> 0:40:55.945]: 
+  Okay, video games then. Video games.
+
+ SPEAKER_01 [0:40:54.392 --> 0:40:54.494]: 
+  Thank you.
+
+ SPEAKER_02 [0:40:54.494 --> 0:41:07.234]: 
+  video, video games, video games, video games, video games, hey buddy boy, should we talk about swing and swing? let's talk about swing, alright, in an early episode, season one, there was a story we told about you.
+
+ SPEAKER_01 [0:40:55.945 --> 0:41:02.256]: 
+  Swaying, swaying, swaying, swaying. Hey, buddy, boy. Should we talk about swaying? Let's talk about replaying. Let's talk about replaying. All right.
+
+ SPEAKER_03 [0:41:02.138 --> 0:41:05.614]: 
+  This is the whole reason the play game says grief flay
+
+ SPEAKER_03 [0:41:06.964 --> 0:41:09.698]: 
+  Trucker Justin told me about this. I'll be happy to mention it. There's a story.
+
+ SPEAKER_02 [0:41:09.276 --> 0:41:13.495]: 
+  There's a story about how 9-Eleven happened. Yeah. Well, that wasn't the first time.
+
+ SPEAKER_03 [0:41:13.495 --> 0:41:14.355]: 
+  That's how my group played.
+
+ SPEAKER_02 [0:41:14.355 --> 0:41:18.017]: 
+  That wasn't goofy, that was him being a psycho.
+
+ SPEAKER_03 [0:41:18.642 --> 0:43:28.360]: 
+  Alright, so in my defense, of course, we were kind of talking about this earlier. You're old enough to know better. Yes, I was. I was like 20. I should have absolutely. But no, I think it was 2001. Yeah, so I was 19 at the time. So I'm in college and I just found out about this. I'm not going to try to defend anything, right? I'm not going to try to cast myself in a great light year. It was a weird time. It was a strange time and I did not know how to deal with this. You know how to deal with it. I didn't know how to deal with it, right? So, you know, a bunch of people just died. I'm a panic. I'm like mind chamber. At the time, I can't stand flying. I'm terrified of it. So the idea is just like the cold sweats come on. I don't know what to do about it. So this is the weird, insane way that I cope with it is by going on to my favorite game, Starcraft. At this time, I have been since high school, like making games to grief people. Where the whole point of the map is that you join it and it finds new and creative and I find interesting ways for the game to kill you without you having any chance of being able to win. There's no win. You can't win. It's just the game picks people off and it's all about me being able to kind of come in like Agatha Christie and then there were none. Like I'm the killer is one of the people that's like, it's like Clue basically, like the killer is one of you. So I'm in there like watching, participating, pretending like I'm just some dumb idiot. Oh, I love this game. I just downloaded this map from this guy. I was fun. I'm going to play it again. You guys want to in? I've been designing these maps for a time, right? I made a map called, I think it was the World Traits Center RPG. I must have made this map in 30 minutes. If you put version like a high number and then put the word gold all in caps after that or platinum, people like it more. So it's a first version. One of this game is version five gold. And so it's already obviously gone through many renditions and many incarnations of testing. And so the whole purpose of the game was you would sit there and you'd look at these two command centers, which are the human race in the game, the Terrans have these like bases. And they're not like skyscrapers or anything. They're just like little round looking like fat boy doughnut. Buildings. And then off the side of the screen, two planes will each crash into each of these buildings, causing them to be set on fire. And then they get destroyed in the opposite order they were hit, just like the World Traits Center. And then this text comes on the screen goes, ha, ha, ha.
+
+ SPEAKER_01 [0:41:22.945 --> 0:41:22.962]: 
+  you
+
+ SPEAKER_02 [0:41:22.962 --> 0:41:25.442]: 
+  You're old enough to know better. Yes, I was. I was like, oh.
+
+ SPEAKER_01 [0:41:32.732 --> 0:41:32.749]: 
+  you
+
+ SPEAKER_02 [0:41:39.668 --> 0:41:40.832]: 
+  It was a weird time.
+
+ SPEAKER_01 [0:41:52.240 --> 0:41:52.544]: 
+  Right.
+
+ SPEAKER_01 [0:43:00.263 --> 0:43:02.912]: 
+  and many of the predictions of testing.
+
+ SPEAKER_03 [0:43:29.187 --> 0:43:33.169]: 
+  I don't know, eventually after this, after this,
+
+ SPEAKER_02 [0:43:33.169 --> 0:43:37.675]: 
+  It was like, it was like, it was like, it was like, there's some doctors like, yeah, it was like,
+
+ SPEAKER_03 [0:43:36.426 --> 0:44:10.007]: 
+  It was like, ah, ha, ha. Your fellow Americans, dang. Yeah, my fellow Americans. The first thing you do is go on Starcraft and recreate it. All right, now this is what I will say. In my defense, I wasn't laughing then. He's like, cry on time. I didn't know how to do it. I was like, ah, ha, ha. Yeah, I didn't know how to deal with it. I did certainly really, really didn't. I'm laughing now because I'm ashamed, yes. I'm very ashamed. Just like at the time, we created a game called Ching Chong Beautiful. And after the fact, in retrospect, that was probably a bad idea. So I won't describe the rest of the Starcraft map. It doesn't get worse than that. That's pretty much like that's the gem.
+
+ SPEAKER_02 [0:43:48.745 --> 0:43:51.512]: 
+  I didn't know how to do it.
+
+ SPEAKER_02 [0:44:10.007 --> 0:44:12.437]: 
+  Because it's impossible to get worse.
+
+ SPEAKER_03 [0:44:12.437 --> 0:44:29.970]: 
+  Well, there's a part involving a president and a sniper and a bunch of other stuff that have a lot of racism. See, I did some similar stuff. I didn't pull any punches with this. And I deleted the map soon after I made it. I think I played it for like a day. I started a couple maps to see how people respond to it. And a lot of people are like, wow, this is great.
+
+ SPEAKER_00 [0:44:16.825 --> 0:44:19.170]: 
+ into his channel.
+
+ SPEAKER_04 [0:44:33.092 --> 0:44:53.292]: 
+  I did the same thing though with Fly Simulator 95. Yeah. So my sister was in the kitchen. You make me sick. No, but I wasn't even American. I was in the little edgy asshole and I flew the plane into the building but it doesn't explode. It gets stuck to the building by its tip. And I was like, my sister told my dad about it. My dad was like,
+
+ SPEAKER_03 [0:44:38.087 --> 0:44:39.539]: 
+  You're dumb, you make me sick.
+
+ SPEAKER_01 [0:44:49.680 --> 0:44:50.001]: 
+  once this election is over. besoin our
+
+ SPEAKER_03 [0:44:51.807 --> 0:44:55.350]: 
+  about it. My dad was like... He probably told him. Yeah, but I was like... Dad, dad!
+
+ SPEAKER_04 [0:44:53.984 --> 0:45:00.430]: 
+  Yeah, but I was like, my dad doesn't like laugh at that kind of shit, but he was laughing at how upset she was over it. Yeah, right. That's what-
+
+ SPEAKER_03 [0:44:59.012 --> 0:45:05.729]: 
+  Right, that's why I'm laughing now, and that's what I try to get out of the grief playing. Yeah, it's got the way worse than me.
+
+ SPEAKER_02 [0:45:03.855 --> 0:45:10.960]: 
+  Yeah, the way worse than me. Yeah. I only animated kids' tumor exploding, and it's way worse than that. That's pretty bad. That's fine for that. What games have we all played?
+
+ SPEAKER_03 [0:45:08.985 --> 0:45:12.445]: 
+  That's pretty bad. What games have we all played together that we've done this?
+
+ SPEAKER_02 [0:45:11.939 --> 0:45:22.452]: 
+  Red Dead was a lot of fun. Red Dead was the one where you and I like really bonded. We were supreme dicks to everyone and we tied in the saloon and like just take out anybody just trying to play the game. Everybody just come and try to kill us.
+
+ SPEAKER_03 [0:45:13.086 --> 0:45:15.145]: 
+  Red Dead was the one where you and I like really bonded.
+
+ SPEAKER_03 [0:45:16.799 --> 0:45:20.207]: 
+  and we hide in the sling and just take out anybody just trying to play the game.
+
+ SPEAKER_04 [0:45:21.878 --> 0:45:45.840]: 
+  Yeah, what else do we get? Well for me, it's like my, when I first, cause I mean of course I grieved whenever I got a chance. You have to. Yeah, it's obviously for me it started with like, let's go, let's go with the blue basics. We went with Minecraft, okay? Yeah, oh yeah. Minecraft was an easy target. Because you can join millions of different servers and you can just join, you can gain the admins trust and fuck them over the last thing you know. Yes, you can. And it's like so... And this is a game system where the... Yeah.
+
+ SPEAKER_03 [0:45:21.945 --> 0:45:23.042]: 
+  Yeah, what else do we got?
+
+ SPEAKER_03 [0:45:27.987 --> 0:45:28.004]: 
+  you
+
+ SPEAKER_01 [0:45:28.004 --> 0:45:28.223]: 
+  Thank you.
+
+ SPEAKER_03 [0:45:34.602 --> 0:45:35.766]: 
+  Yeah, oh yeah.
+
+ SPEAKER_03 [0:45:43.124 --> 0:45:57.231]: 
+  Yes, you can. And it's like so... And this is a game system where more than anything else, this isn't like, oh I jump into COD and I team kill. Haha. Like oh I ruined a couple minutes of this guy's life. Minecraft is the pinnacle of investment of player time.
+
+ SPEAKER_04 [0:45:56.910 --> 0:46:56.479]: 
+  So I went, I joined this guy's server. He had a bunch of like beautiful monuments. Like they were like beautifully done. And then I got with my friends together. I'm like, let's put TNT under every single one of his things. And when he says that he's like gonna update the server, let's blow them all up while he's doing that. So- I was gonna ask how you deal with rollback. So he was saying like, hey guys, gonna update the server soon. And we were like, oh fuck. So we got together, we had this like underground like redstone like fucking bomb thing set up. Set it off from 100 miles away. When he was like, he was like, he's like talking about what he's gonna do. Cause he trusted us, four of us. And we fucking set it off. And he was like doing it and it exploded. And his server actually got so fucked up that he couldn't even go into it because his spawn points were all fucked up. People were spawning near cows and like in like creeper ditches and shit. And he had to completely redo his entire, we fucked him up so bad, we just destroyed everything. Bravo, bravo. No, I tried to- Sometimes a void. Shit, there was infiltration.
+
+ SPEAKER_03 [0:45:58.952 --> 0:45:59.256]: 
+  Yes.
+
+ SPEAKER_03 [0:46:14.292 --> 0:46:16.080]: 
+  I was gonna ask how you deal with rollback.
+
+ SPEAKER_03 [0:46:26.087 --> 0:46:27.809]: 
+  so you can set it off from 100 miles away.
+
+ SPEAKER_03 [0:46:52.750 --> 0:47:13.422]: 
+  No, I tried it sometimes. It was infiltration. It was infiltration to fake ligaments. If somebody's like level of hubris is great enough, I don't mind like people destroying stuff. Like it's really cringe-worthy I think and Jeff you probably agree. Yes, it's mean. Like hitting on the waitress, you know, like it's just one of those things where you go in and you just pick on somebody but if this guy was really asking for it, then I'm down with that.
+
+ SPEAKER_04 [0:46:57.154 --> 0:46:57.222]: 
+  Thank you.
+
+ SPEAKER_02 [0:47:03.820 --> 0:47:05.119]: 
+  Yes, like, like me.
+
+ SPEAKER_04 [0:47:13.422 --> 0:47:35.950]: 
+  No, he was actually like a huge prick because he tried to restrict the blocks you could use. Like I would be like, I told him like, What a Nazi. Yeah, I was using like a lot of cobblestone or like hard cobblestone and he took it away and I'm like, why can't I use cobblestone anymore? He's like, you can only use brown dirt blocks because you've been using too much cobblestone and I only used like a 64 set and I'm like, I didn't know there was a restriction. And so,
+
+ SPEAKER_03 [0:47:20.239 --> 0:47:21.100]: 
+  What a Nazi.
+
+ SPEAKER_01 [0:47:30.094 --> 0:47:31.056]: 
+ elets
+
+ SPEAKER_03 [0:47:35.950 --> 0:47:41.164]: 
+  So I eventually- Whereas on his monuments it's probably like he's using every block he could fucking want. Exactly! He had to leave these fucking-
+
+ SPEAKER_04 [0:47:38.920 --> 0:48:09.295]: 
+  Exactly he had like these fucking like plemeths He used to come there with this like autistic friends and they would laugh and like be like recording this for my I'm gonna do the school project I'm recording this monument. I'm gonna show it off in like a big video montage and I'm like you wait motherfucker I'm gonna find the right time and he had all this stuff. He had like a spaceship He had like a just like a giant like a pyramid like thing. He was he was autistic the mags Took him out swain wouldn't blow up a building but his his ideas are fine. I'm sitting
+
+ SPEAKER_02 [0:48:04.097 --> 0:48:04.823]: 
+  Sweet.
+
+ SPEAKER_03 [0:48:08.265 --> 0:48:41.745]: 
+  Mine got pretty psychedelic, like outside the realm of normal thinking. One of my favorites I saw people do, but I never did, which I love, is... I think it's called lava stoning. I forgot what they call it, but... So you can set fire to someone's house, alright? There's a lot of funny videos where the guy is trying to light his fireplace in his house, and he's like, this is how you set it up so the fire doesn't jump blocks, because it'll find nearby voxels and set the blocks on fire. And, right, he sets fire to his house and the whole thing gets destroyed. And the whole video is like a minute long, like it takes no time at all. Yeah, he's like...
+
+ SPEAKER_00 [0:48:23.284 --> 0:48:23.858]: 
+  All right.
+
+ SPEAKER_01 [0:48:31.536 --> 0:48:31.705]: 
+  Yeah.
+
+ SPEAKER_04 [0:48:40.615 --> 0:48:42.944]: 
+  Yeah, he's really soft-spoken.
+
+ SPEAKER_00 [0:48:42.488 --> 0:48:45.542]: 
+  Spoken in like here you go. Oh wait wait
+
+ SPEAKER_02 [0:48:42.944 --> 0:48:44.024]: 
+  and like,
+
+ SPEAKER_00 [0:48:46.605 --> 0:48:46.622]: 
+  you
+
+ SPEAKER_03 [0:48:46.622 --> 0:48:51.465]: 
+  And you don't wish it on him like you're rooting for him, but you know
+
+ SPEAKER_04 [0:48:49.491 --> 0:48:54.317]: 
+  rooting for him but you know it's not bad it's like it's like a cringe video almost yeah so bad you
+
+ SPEAKER_03 [0:48:53.237 --> 0:50:01.024]: 
+  You can feel bad for him you can afford to because you know what's gonna happen anyway You get the best of both worlds So I one thing I found from watching other people's videos And I wish I could take credit for this is you find someone's like monument or their home or something and you dump lava on it now It sounds like yeah, you could just like set fire to it or it's gonna destroy the blocks not necessarily What you need is you need enough lava and enough water buckets so that you dump lava all over something like a house The lava will pour out as far as and as well as it can and then you dump water over it And then pick up the water block and what that does is it completely encases whatever thing you're doing their house their monument They're like their ship their farm whatever in cobblestone And then you do another layer on top of that and you just encase their house in a cocoon of cobblestone That takes you no time at all because you could be placing tea and tea blocks Yes, you're placing cobblestone But just by placing the lava and letting it coat it and it's like thin candy shell of lava and then building with doing water on top of it You just coat it and you could do this inside their house You can do this anywhere and it gets destructive because they have to try to find their home Do you're somewhere in here? Like you know how they say that sculptors have to envision the shape of your teeth
+
+ SPEAKER_02 [0:48:57.996 --> 0:48:58.452]: 
+  world.
+
+ SPEAKER_04 [0:48:58.452 --> 0:48:58.958]: 
+  this whole house.
+
+ SPEAKER_03 [0:50:02.340 --> 0:50:08.162]: 
+  It's not more literally through. You're Michael Aiklin, I get to find your house. You're giving a real life experience.
+
+ SPEAKER_02 [0:50:02.796 --> 0:50:06.002]: 
+  I'm literally through. You're making me cry now. I'm gonna find your house.
+
+ SPEAKER_04 [0:50:06.002 --> 0:50:13.056]: 
+  You're giving a real life experience. Do you remember when the sand used to be like something that when it fell on a player it suffocated them? Yeah, it-
+
+ SPEAKER_03 [0:50:12.584 --> 0:50:15.149]: 
+  Yeah, I think it crushes now, but yeah.
+
+ SPEAKER_04 [0:50:14.237 --> 0:50:17.697]: 
+  Yeah, but before when it actually suffocated and crushed them.
+
+ SPEAKER_03 [0:50:17.646 --> 0:50:19.806]: 
+  like it occupies the same space as you or something.
+
+ SPEAKER_04 [0:50:19.334 --> 0:50:38.993]: 
+  We would like go to like these there's like these big tree forts that people would get tree from It was like a tree reserves in certain places and we would like take sand and we'd stuff it in the top of the trees when people were hitting wood It would fucking suffocate kill them because they right yeah Because they're digging up and you never dig up. Yeah, and they would like suffocate them And we would just spend most of our time sticking sand in the tree
+
+ SPEAKER_03 [0:50:23.080 --> 0:50:23.603]: 
+  I was like, you're...
+
+ SPEAKER_01 [0:50:29.729 --> 0:50:29.999]: 
+  Uh-huh.
+
+ SPEAKER_03 [0:50:32.108 --> 0:50:34.977]: 
+  Right, yeah, because they're digging up and you never dig up a cracker too.
+
+ SPEAKER_03 [0:50:38.993 --> 0:50:51.953]: 
+  I like that. Yeah, see I love that. That's perfect. Cory, you and I need to spend more time online, okay? Yeah, I get it. Like you have these logs, right, that represent the tree trunk. You just sit back and watch these people come up and start hitting it.
+
+ SPEAKER_04 [0:50:42.419 --> 0:50:43.296]: 
+  Cory, you know what I mean?
+
+ SPEAKER_01 [0:50:43.296 --> 0:50:46.637]: 
+  I need to spend more time online, okay? Yeah, I get it. Like you have...
+
+ SPEAKER_04 [0:50:44.106 --> 0:50:44.494]: 
+  One life.
+
+ SPEAKER_04 [0:50:49.101 --> 0:50:54.450]: 
+  You just sit back and watch these people come up and start hitting and fucking die and shit explode. That's perfect. Setting it up so that they eat you.
+
+ SPEAKER_03 [0:50:52.915 --> 0:50:56.948]: 
+  That's perfect. Setting it up so that they kill themselves is the need of us.
+
+ SPEAKER_02 [0:50:54.450 --> 0:50:58.146]: 
+  kill themselves is the end of this.
+
+ SPEAKER_04 [0:50:56.948 --> 0:51:01.403]: 
+  Dixon mind-grass easy it's it's fun kids
+
+ SPEAKER_03 [0:50:59.766 --> 0:52:01.461]: 
+  Tell the story. Tell the page story. Well, in Tomomoto's server, I think the first thing we did was I had discovered how, like, my goal was to make as much noise, like, like create sound pollution in Tomar's server. And this is our friend's server. He would share, he would share his link, I think, to the IP to get to this thing with people. So there were a lot of people I didn't know, which is great, because I don't like the Greek people I know. So I was trying to be more like, like Corey's being psychological with this. Their actions caused their defeat. Exactly. So I discovered that you could build animal and monster generators, and we would create pig farms underneath people's houses where you would build the block and you'd place it because it was like full creative mode where you could, if you're admin, you could like do whatever. So I don't know why. Tomar to this day says he didn't want to stifle my creativity. That's why he not only didn't ban me but kept me an admin on that server forever, which is true. I felt the level of responsibility that actually kind of like leashed me in. So I wasn't going to destroy people's houses, but I was going to do things like build these pig generators under people's houses.
+
+ SPEAKER_04 [0:51:28.268 --> 0:51:29.213]: 
+  Exactly.
+
+ SPEAKER_02 [0:52:00.769 --> 0:52:02.794]: 
+  You can make them quit voluntarily.
+
+ SPEAKER_03 [0:52:02.271 --> 0:53:14.243]: 
+  Yeah, like I just want to make it as bad an experience for them as possible Without actually taking away what is quintessentially Minecraft to that they can still play fully They just don't know that when next time they're off the server I'm gonna mine underneath your house from nearby and I'm gonna build a little cavern underneath your home Your little your little corner of the world and I'm gonna build a pig generator Next to lava and next to it a soil like a piece of I've had to like get the Sun to hit a piece of soil So it turns into grass because otherwise I won't like spawn the animal on it Then I have to cover over it so I have to do it during the right time of day And the grass I think doesn't go away after it's covered unless you dig it up and put it back down as dirt The grass had to be next to lava so that the pigs would spawn and then jump into the lava and continuously die And so they would and this horrific sound of pig screaming Loop and you can hear it for like like chunks of the of the game away like yeah But happening over laughing each other It's It's not only an avatar like it sounded like something horrible was happening and it was It was going on right beneath your feet He had no idea and I got it efficient enough where I could do it in a like like a too tall like three by four area So I could just have this little tiny pocket underneath people's houses
+
+ SPEAKER_04 [0:53:14.243 --> 0:53:30.308]: 
+  When I had Monster Generators, there was like a few servers that were really, they had like really good like digging mods and stuff. And it was like one of those things where it's like when you got bit by a poisonous spider, you would legitimately like be poisoned. You'd actually need to go to a medical bay and stuff.
+
+ SPEAKER_01 [0:53:21.010 --> 0:53:21.398]: 
+  It's
+
+ SPEAKER_03 [0:53:27.979 --> 0:53:28.080]: 
+  Thank you.
+
+ SPEAKER_03 [0:53:30.291 --> 0:53:31.962]: 
+  Yeah, I've seen like modded toys.
+
+ SPEAKER_04 [0:53:31.658 --> 0:53:43.757]: 
+  So I made like fucking like 16 by 16 rooms and just filled them up with spiders and just stuck them all over underground So when people were digging they were fucking open up a thing of spiders They would just come out and poison them
+
+ SPEAKER_03 [0:53:40.315 --> 0:53:40.838]: 
+  Yeah.
+
+ SPEAKER_03 [0:53:41.985 --> 0:53:50.069]: 
+  They just come out poison. Right, that urban legend of the chick who's got the pimple that when it pops, it's like baby spiders everywhere, but in the Minecraft experience.
+
+ SPEAKER_04 [0:53:47.335 --> 0:54:25.287]: 
+  like baby spiders everywhere, but in the Minecraft experience. Yeah, so they were like digging and I would purposely like put like iron blocks It's like the most common thing people would dig. Yeah, and I put it in an area, but they were already here like They wouldn't know what it is. Yeah, they would assume that it probably wasn't in front of an iron thing So I did that a lot. I tried to get creative like I try to do things where I put iron blocks underneath it There was like these things that I forget what they are, but they kind of like smash eternally So if somebody stepped on them, yeah pistons, I think yeah, it would like shove them around down there And eventually like if they they would eventually like try to find the way out and shove in the lava. I love that
+
+ SPEAKER_01 [0:53:55.452 --> 0:53:55.755]: 
+  Yeah.
+
+ SPEAKER_01 [0:54:00.885 --> 0:54:01.274]: 
+  Yeah.
+
+ SPEAKER_01 [0:54:06.893 --> 0:54:07.197]: 
+ 对
+
+ SPEAKER_03 [0:54:15.887 --> 0:54:17.760]: 
+  Yeah, pistons I think.
+
+ SPEAKER_03 [0:54:19.853 --> 0:54:19.937]: 
+  Thank you.
+
+ SPEAKER_03 [0:54:24.190 --> 0:54:35.884]: 
+  I love that, that's ingenious. Yeah, just like move them around so they're not only they just like, you've taken control of their player away, their character, their avatar, but like when they finally get to play again, they have no idea where they are. Yeah, that's right.
+
+ SPEAKER_04 [0:54:34.754 --> 0:54:42.769]: 
+  Yeah, so I pretty much eventually, I haven't played Minecraft in a long time because it's just like, you know, kids like Minecraft crazy.
+
+ SPEAKER_03 [0:54:41.217 --> 0:55:55.990]: 
+  We uh, eventually tried to create a meat grinder that would just like, it was an ultimate tower of just pigs dying With water was flowing down towards like cat die like we had layers of pigs. It didn't really work out that well We just made infinite pigs and just kind of like lagged the server down even for us But I think the day that that server just like kind of went downhill From my actions was when I learned how you can get redstone to create like an energy pulse But so that loops forever like you create this infinite loop where it just keeps creating this like this pulse that goes on off on off on off on off And attach that to a music block or multiple music blocks and you can infinitely create this Or any instrument you want this one note And it would just happen forever and I would place these Underneath people's houses as well. Uh, and I got to a point where people are expecting that oh swain's gonna just come and dig in and do this again So what I started doing was I would place the music box in such a way where I create the music box and I started layering it with tnt so Because it got to a point where this is back when if you dig a tnt block it activates it And so I was donating entire entire areas I felt bad because apparently ego ego raptor and tomar had built this huge recreation of disneyland in california
+
+ SPEAKER_00 [0:55:25.716 --> 0:55:26.965]: 
+  And I got two point where people...
+
+ SPEAKER_01 [0:55:47.890 --> 0:55:48.126]: 
+  Bye.
+
+ SPEAKER_02 [0:55:48.075 --> 0:55:48.430]: 
+  I, and I've
+
+ SPEAKER_01 [0:55:54.994 --> 0:55:57.357]: 
+  in California.
+
+ SPEAKER_03 [0:55:57.357 --> 0:56:53.939]: 
+  And I didn't know that a buddy of mine, I think it's impending riot on Newgrounds. He was, I think, the one who first started placing a TNT, not me. I was creating music blocks, my music traps all over Disney. And he... They ruined their whole world. Right, and he started placing TNT everywhere. He would, after I was done, he'd create a sapper tunnel into my thing and put TNT so that when Tomar founded it would blow up Disney and I would get in trouble. So he was counter-griefing me. He was a double agent at Son of a Bitch. I think Tomar actually, by chance, managed to find the first one of those and ask me why I had done this. And I told him I didn't do that, I swear. And so he managed to, like, we had him go in a bomb squad team to try to find the same. And he'd be like, bosses, without detonating the TNT. Could you imagine every hit, you have to stop digging the moment you break the block? Knowing there could be TNT on the other side. That must have been horrifying, and I really do feel bad about that. Minecraft.
+
+ SPEAKER_04 [0:56:53.213 --> 0:56:53.297]: 
+  You
+
+ SPEAKER_04 [0:56:53.939 --> 0:56:54.985]: 
+  by squad
+
+ SPEAKER_03 [0:56:54.816 --> 0:56:57.010]: 
+  Yeah, well, because that's basically what it was.
+
+ SPEAKER_04 [0:56:56.470 --> 0:57:01.583]: 
+  I remember their server, they had a, they allowed you to like turn invisible and shit and strike people with lightning.
+
+ SPEAKER_03 [0:57:01.532 --> 0:57:05.633]: 
+  Oh yeah, that was the survival mode I think, right? The one that had creepers and everything?
+
+ SPEAKER_04 [0:57:05.498 --> 0:57:25.174]: 
+  I was admin for like a day on that and then they think I think it was a good one removed me. Yeah, but um Yeah, I remember I followed a guy into a cave and I was like flying above him invisible And every time he got deep into the cave I punch a brick on the wall and make that that that noise like I was freaking out He was like punching around in the air trying to find what was happening. That's hilarious
+
+ SPEAKER_03 [0:57:07.287 --> 0:57:07.337]: 
+  Thank you.
+
+ SPEAKER_02 [0:57:09.683 --> 0:57:11.084]: 
+  Yeah.
+
+ SPEAKER_01 [0:57:11.084 --> 0:57:11.927]: 
+  Yeah, that was a good one.
+
+ SPEAKER_03 [0:57:23.959 --> 0:58:24.675]: 
+  That's hilarious. That was the one, that was where I put the lava block and it was Hypotosis, the guy that did the art for Alice, Alice is Dead. Hypotosis was playing and he never, I don't think he likes me anymore. And I can't say as I blame him. That's where I dug the hole, like one little block out of his ceiling and put a lava in there and then placed like dirt right under it. So he's like, what are you doing? I dug it out and I remember watching him go into his house and then seeing the prompt that it said he had just died from lava and I felt really bad. I ran in there because he's actually trying to play survival mode and I'm just puffing around and so I ran in there to actually, I saved a bunch of his stuff that his character had dropped. Like his, like I found the diamonds that he had dropped right on the edge of the lava right before it grabbed it because then all of his shit would have been gone. I'm like, dude, I'm so sorry. I contained it before his house caught on fire. I don't know how he, it's like getting killed by a freaking turtle. He got us to half of it. I think I just turned up my ceiling and it just killed him. Yeah, like I guess he dug it and was just stood there and just waited till the lava caught him and he died. I got, on the one hand I felt bad but I didn't because you kind of are asking for it at that point. I think I have to kick his ass. Yes, guys.
+
+ SPEAKER_00 [0:57:39.214 --> 0:57:41.324]: 
+  place like dirt right under it.
+
+ SPEAKER_01 [0:58:08.847 --> 0:58:09.066]: 
+  Thank you.
+
+ SPEAKER_02 [0:58:11.310 --> 0:58:12.239]: 
+  I'm gonna turn it up.
+
+ SPEAKER_02 [0:58:22.650 --> 0:58:29.147]: 
+  You guys, you guys I found a new a new grief a new way to ruin people's lives though. Yeah, we did
+
+ SPEAKER_03 [0:58:28.388 --> 0:58:32.978]: 
+  Yeah, we did. Now, what do you know, Jeff, about Space Station 13? Because I'm going to hand the mic to Chris.
+
+ SPEAKER_02 [0:58:31.307 --> 0:58:40.943]: 
+  I'm gonna have a lot to Chris. I was on Skype when I was like, hey I'm gonna stream a game. I didn't know what this was. It's called Spiritation 13.
+
+ SPEAKER_03 [0:58:37.450 --> 0:58:38.074]: 
+  You will see it.
+
+ SPEAKER_03 [0:58:40.521 --> 0:58:46.444]: 
+  It sounds like some like loser faggotship, right? Like that's like quote-n-quote. That's what it sounds like. I'm like is this some new games?
+
+ SPEAKER_04 [0:58:44.402 --> 0:58:47.997]: 
+  I'm like is this some new games?
+
+ SPEAKER_02 [0:58:46.444 --> 0:58:59.438]: 
+  Is this some new... this is like the newest thing and he's like well yeah, but it's still like 15 years old But it's for some heads like some kind of resurgence. Yeah, I couldn't tell what the fuck was going on It's like an overhead view of a space station basically
+
+ SPEAKER_03 [0:58:47.929 --> 0:58:47.946]: 
+  you
+
+ SPEAKER_04 [0:58:53.684 --> 0:58:55.439]: 
+  and din Liebe
+
+ SPEAKER_04 [0:58:58.965 --> 0:59:03.437]: 
+  Basically it looks like a baby MS paint Lego drawings.
+
+ SPEAKER_03 [0:59:03.437 --> 0:59:06.728]: 
+  like one of the old still
+
+ SPEAKER_04 [0:59:04.770 --> 0:59:18.507]: 
+  Let's start from the beginning, right? Me and Ding Dong were like, we're pretty good griefers. We go around stabbing people in eyes with screwdrivers. It's pretty great. That's become my signature move. Like, you know, run up to these little cute characters and stab them in the other screwdrivers.
+
+ SPEAKER_03 [0:59:11.706 --> 0:59:14.069]: 
+  That's become my signature move.
+
+ SPEAKER_03 [0:59:19.485 --> 0:59:23.940]: 
+  And you stab them until the game indicates like they have fallen limp and gone limp.
+
+ SPEAKER_02 [0:59:23.367 --> 0:59:32.496]: 
+  Yeah, yeah, yeah, like it like spells out what's happening. It's like they're blind in one eye They're lifeless and you leave them and you gotta drag them into like a locker and like there's a blood trail that follows them and stuff
+
+ SPEAKER_04 [0:59:24.008 --> 0:59:24.059]: 
+  Thank you.
+
+ SPEAKER_03 [0:59:32.496 --> 0:59:35.939]: 
+  Did you put them in the locker and weld it shut? Yeah, you can weld it shut, right?
+
+ SPEAKER_04 [0:59:34.352 --> 0:59:52.949]: 
+  Yeah, you go all the shot, right? But this isn't the good part of the story. The good part is that I went over to Swain's house one day and I was like, Swain, I think you might like this. And he was like, oh, okay. And I put it on. And at first he was kind of like, oh yeah, this is interesting. This is pretty cool. And then like three weeks later, he's a fucking master griefer on it. He's like,
+
+ SPEAKER_03 [0:59:52.949 --> 0:59:56.172]: 
+  But I really like the game. He's learned the way either way.
+
+ SPEAKER_04 [0:59:54.822 --> 1:00:00.930]: 
+  He's learned every single system. He's learned how to be like an engineer.
+
+ SPEAKER_03 [1:00:00.137 --> 1:00:03.951]: 
+  The only one to have him forget out his botness and shaft miner. You put these fingers down all the time.
+
+ SPEAKER_04 [1:00:02.635 --> 1:00:06.499]: 
+  You put these stickers and all these creative ways to like fuck with people without getting
+
+ SPEAKER_02 [1:00:06.499 --> 1:00:11.444]: 
+  getting banned. Every time the admin will message him and be like, why did you like do this? He'll have a fucking st-
+
+ SPEAKER_03 [1:00:11.444 --> 1:00:23.543]: 
+  story and get away with it.
+
+ SPEAKER_02 [1:00:23.475 --> 1:00:26.445]: 
+  I would watch you play, because these guys, they just murder somebody and they just...
+
+ SPEAKER_04 [1:00:26.445 --> 1:00:31.002]: 
+  drag the body to like an air log, like if you get rid of the body, you think you're gonna get rid of it. Where they find out.
+
+ SPEAKER_03 [1:00:30.495 --> 1:01:01.596]: 
+  Yeah, that's called spanking someone. They can't even like get the body out of the airlock. They're really big cheats. Okay, I remember when you and I were playing once, I think you got jumped by a guy, he was like a patchy chief something. I think he jumped you and we were completely cheating and you were screen sharing so I knew exactly where you were. So I went over to where you were, I stun batoned him, so I just beat him to death. I handcuffed him and at the time I couldn't figure out how to open the airlock. I beat him in the head with the stun baton, turned off, so it didn't use up all the charges. I remember they asked me why did I kill him, I have proof that he attacked another like member of security or something.
+
+ SPEAKER_02 [1:00:31.002 --> 1:00:35.946]: 
+  That's called spanking someone or shooting them up. They can't even get the body out of the airlock. They're really big kids to those. Explain to us all your best, thank you.
+
+ SPEAKER_03 [1:01:02.288 --> 1:01:53.504]: 
+  My proof is that I've meted the shit out of it and if they knew that's banable like they'll get rid of you for life from that server Yeah, and also just a clarification Chris is banned from every every notable server I can't play I'm banned from all of them But one yeah because in one day we got banned from all of them because Chris is like hey this game is great You just grief people you can just keep eating hamburgers until your character shits himself on the floor And then when people run over this the shit stain like they slip you here go They're on the floor for like a minute. Yeah, it's like it's like eight painful seconds of them just sitting there We discovered that a totally legit job is janitor. It's underwhelming It's underappreciated, but you have access to the most devious diabolical tool in this game Which is a mop and a bucket and the reason this is diabolical is that you can clean floors and your job is to go around Wherever there's like muddy Prince blood is almost everywhere like in that in a station within five minutes of the new
+
+ SPEAKER_01 [1:01:07.300 --> 1:01:07.519]: 
+  Yeah.
+
+ SPEAKER_01 [1:01:18.606 --> 1:01:19.264]: 
+  Just keep eating ham.
+
+ SPEAKER_02 [1:01:25.694 --> 1:01:27.145]: 
+  the most satisfying thing in the world.
+
+ SPEAKER_04 [1:01:51.394 --> 1:01:56.018]: 
+  in a station within five minutes of the new run. Especially as far as the end of the round, like it's all hell breaks loose.
+
+ SPEAKER_03 [1:01:55.512 --> 1:02:52.077]: 
+  Yeah, and rounds last between an hour and a half. Like, they can go from anywhere from like 20 minutes to like three, four hours, five hours, whatever. If they just want to keep it going. And once you die and around, you're done. You cannot play again. So, with the janitor, all you gotta do is, you go to some place where there's gonna be a lot of blood that justifies you doing this, so the admins can't get mad at you for making the floors wet, and where a lot of foot traffic will take place. At the point where falling down will be the most inopportune thing. And, you know, we talked about, can we make people slip and fall out the airlock? We couldn't find any justifiable way to do that, where someone would be running full speed at an airlock, or they're not trying to go out already. We decided it's the hallway intersection, the T-section where the hall goes to the escape shuttle, at the med bay. And the reason is because every dead body is going, or everybody who's wounded is being dragged to med bay. We would constantly wet the floor in front of med bay and watch as security, the head of personnel, the security runs by, right? Cause nobody just walks in the game. If you walk, you won't slip, but everybody's gotta hit run so they can get around faster. And so, they're just running on,
+
+ SPEAKER_01 [1:02:01.384 --> 1:02:01.452]: 
+  Thank you.
+
+ SPEAKER_02 [1:02:34.274 --> 1:02:34.594]: 
+  Yeah.
+
+ SPEAKER_03 [1:02:54.355 --> 1:03:59.003]: 
+  And these are games where you can get from one end of the ship to another in only like maybe 60 seconds if you know where you're going Maybe a minute and a half and there's 70 people playing 70 fucking people in this station. That's about that size There's so much foot traffic Sometimes there's an antagonist around called revolutionaries where men in black like flasher you and now you wake up in your brainwashed And you belong to the revolution and the only people to the revolution can see it's cool other people There's a red R over your head It's so great because once you're revolutionary so long as you do not kill or harm any other Revolutionary and obeyed your bosses you can get away with killing anybody and doing anything that the station you want So naturally me and crinkle set up the little water trap Yeah, sir referring to it as the spider web and anybody that would run by and go like that We beat them in the head with with a toolbox, which is the best like like civilian item You can get we beat them in the head with a toolbox till they're dead And drag the body back into med bang and then clean the floors right away So no one knows what's going on we killed so many heads of staff like the chief engineer the research director Just all these people running by just going through this main thoroughfare And they're just slipping and security can't do anything about the game is very
+
+ SPEAKER_02 [1:03:16.444 --> 1:03:16.461]: 
+  you
+
+ SPEAKER_01 [1:03:18.756 --> 1:03:18.807]: 
+  Thank you.
+
+ SPEAKER_02 [1:03:31.935 --> 1:03:32.205]: 
+  Yeah.
+
+ SPEAKER_04 [1:03:59.003 --> 1:04:11.997]: 
+  very deep right so you'll spawn if you choose to be like anything you'll have an ID badge that's on your thing right you can take off your code and your ID badge will be on your code you leave on the floor and then you don't have an identity anymore someone can pick it up and then take on your ID
+
+ SPEAKER_03 [1:04:11.997 --> 1:04:20.603]: 
+  kind of yeah like you still have your name like it appears over you because you look like you yeah but if you were a gas mask or welding mask or something that conceals your face you're listed as unknown
+
+ SPEAKER_04 [1:04:20.552 --> 1:04:24.450]: 
+  We should tell the two stories right? There was one game where Swain got apprehended.
+
+ SPEAKER_03 [1:04:22.122 --> 1:04:22.425]: 
+  Yeah.
+
+ SPEAKER_02 [1:04:24.450 --> 1:04:28.500]: 
+  Because he was going around being a griefer and he got caught. We tried doing like a break
+
+ SPEAKER_04 [1:04:28.500 --> 1:05:02.149]: 
+  out where on this one specific server you can walk up to the jail cell looking at people on the inside of the jail cell so I was like oh wait there's glass and there's wires if I go get like a sledgehammer or a toolbox and smash the window then if I get wire cutters I might be able to get to you and he's like go do it go do it and I went and got it and I smashed the glass that took like fucking ages we were on the lookout for people walking by because if they see you you're caught and then I smashed the glass and I was like okay now I need to take the glass out and then I need to use the wire cutters so I use the wire cutters I cut into the wire and just got fried by the electricity.
+
+ SPEAKER_01 [1:04:36.263 --> 1:04:36.617]: 
+  So, I'll...
+
+ SPEAKER_02 [1:04:53.256 --> 1:04:53.543]: 
+  Bye
+
+ SPEAKER_03 [1:05:01.204 --> 1:06:45.525]: 
+  Yeah, because it right because the electricity was still on the short of that Most of the grief in that game was and this is how we ended up banned from all these servers was you just go and you grab a screwdriver You find someone who's not wearing any eye gear because it protects them It doesn't even let you like swing at them, which is good that you can't hit them and oh, whoops I'm armored so it doesn't hurt me It doesn't even let you try in the first place which is nice and we would just find somebody and you pick the eyes as their target and And just stab them in the eye with a screwdriver till they're dead I Got we went on this one role-play server and we're trying to decide how I Don't know what Chris did but he got zip tied and we didn't know how to break out of handcuffs yet So we'd like complained of security like help like this robot was was messing with me Please I'm like I don't have any like crimes against me. I didn't do anything. Could you let me out? No, they're like all right. Yeah, no problem. So we let him out and so he in like in net speak Chris Because this is a role-play server. This is completely off limits. He goes, okay, THX BB I'll suck you off later I'll suck you off LTR or L a r and then he runs off He gets an admin warning for the elite speak because he was being lewd to somebody or to the net speak because he's being lewd They threw him in jail or something like that Like shitty role-play servers. We're like, all right, we gotta get back So I had this plan I'd spawn as a medical guy. I was a doctor and So I had this big plan where I was gonna find these like bags of blood and like spill them all over the floor Just make a bloody mask and anything I couldn't figure out how to do it though. It's so easy I just didn't have a sharp instrument to like open it Or like or like put it in a syringe and like sprayed on the ground I just I couldn't figure it out because it was like our first day Yeah, so I just went in the kitchen and started throwing them at the chefs
+
+ SPEAKER_01 [1:06:13.834 --> 1:06:16.230]: 
+  or something like that. This is complete like...
+
+ SPEAKER_01 [1:06:17.985 --> 1:06:18.492]: 
+  We gotta get back to it.
+
+ SPEAKER_04 [1:06:18.492 --> 1:06:19.217]: 
+  I think it's super-
+
+ SPEAKER_00 [1:06:31.857 --> 1:06:33.055]: 
+  and crew the crime scene.
+
+ SPEAKER_01 [1:06:42.792 --> 1:06:42.842]: 
+  Thank you.
+
+ SPEAKER_03 [1:06:46.454 --> 1:07:21.115]: 
+  I got arrested for contraband. I had stolen the blood from where it's supposed to go. So I got arrested for contraband, and I got arrested for battery, because I was throwing it at chefs. So they hold my ass right to jail. I'm like, this is fucking ridiculous. I didn't even have a chance to grieve the way I wanted. And they got me, because I was like, they threw it back at me, like they're the ones who did it. But the chefs all had gloves on, so they didn't leave fingerprints. They fucking fingerprinted the bags of blood, and I wasn't wearing my latex gloves, so they completely knew who it was. And if they didn't get me for that, they could have got me for fucking fiber from my coat. Like that's how detailed this stupid game is. It's ridiculous. It's super detailed.
+
+ SPEAKER_02 [1:07:19.343 --> 1:07:21.992]: 
+  You know, it's super detailed. What's that mean, Swain?
+
+ SPEAKER_04 [1:07:21.992 --> 1:07:36.944]: 
+  The chef and he spawned as the bartender so we were right next to each other and he had a bartender's assistant call Lee So it's some girl call Lee, yeah, and I came in and started shouting I'm just being like fuck you for no reason and then the security came and swain was just like it was all her office She got like dragged away
+
+ SPEAKER_03 [1:07:36.944 --> 1:07:40.774]: 
+  Yeah, we got a lot of people, we got a lot of people, uh, going around for that.
+
+ SPEAKER_04 [1:07:44.217 --> 1:07:46.815]: 
+  We came back and she was back there so she must have been like
+
+ SPEAKER_03 [1:07:48.334 --> 1:09:50.644]: 
+  You got the wrong person. There was one server where I had a personnel who was being a real piece of shit. And so I was like, this guy deserves to die. And I'm now banned from that server, I believe. So he was just being a numbskull. So I killed him. I axed him. I grabbed a fire axe and just took it to his arms to his guide. His limbs are flying all over the place. They somehow either managed to, even though he was dead, they either cloned him, which I'm pretty sure they did, which gives the player who's dead the option to jump back into the body. Otherwise the clone is just dead and lifeless and it didn't work, whatever. I'm pretty sure they cloned him after I got arrested right away by Cyborgs and the head of security killed me. So I logged into one of my many accounts, which is again, a banable offense. You're not supposed to do this. I switch accounts, I jump back in, I find out the head of personnel's dead, but has been resurrected somehow. Fuck this. So I came back as a security guard. I stunned him. I handcuffed him. I dragged him to the airlocks. And I just threw us both out of the space. And I screencapped it, so I'll always remember this moment of me facing him with the warning of no O2 and low pressure and we're just floating off into space. And he goes, and there's still the chat log of him. Rogue security, he says. He's shouting Rogue security on his comm set so that people are coming to save him. If you can't take right Rogue security. Let's make this thing thumbnail for the episode. All right, yeah. I'll find it. I'll send it to you immediately when I get home. I had so much fun with that. And I think I emoted something because you can't say something when you're in space, like you can't produce sound. Like anything you say comes out as a whisper because you know, in space can't hear you scream, whatever, like aliens, the tagline. So I did an emote, where I kissed him is what I did. So I just float off into space. He's handcuffed. Well, I got off into space the worst way to die. Because if there's no body, they can't bring him back. They can, you actually have to have, like it can't just be blood. So, I mean, and it didn't matter because I stunned Baton to him, handcuffed him and brought him into space. There was no blood and no injury whatsoever. No way for them to know. And I'm pretty sure the admins like asked me why I did that. And I'm like, I don't actually remember what I said. But I'm pretty sure I get banned from that server. And I'm pretty sure it was for that.
+
+ SPEAKER_04 [1:08:59.444 --> 1:09:00.002]: 
+  for the episode.
+
+ SPEAKER_02 [1:09:50.594 --> 1:09:53.142]: 
+  You're like at a whole new level.
+
+ SPEAKER_03 [1:09:52.365 --> 1:10:23.027]: 
+  Yeah, it's very creative. I figured out how to build the singularity, how to make a black hole that powers the ship in this game. Not as complicated as it sounds because it's all those pieces. And learning how to make things is a step one to breaking it. Like, now I know how to like open up a panel on the floor and cut this wire and put the panel back and like the ship is just not powered forever. And then we could do, because there's like one major line goes from the power source to the batteries to the rest of the ship. It's spiderwebs off. All you have to do is cut the one main power and no one will ever know that that's why it's not working. The game is really detailed too.
+
+ SPEAKER_01 [1:10:01.005 --> 1:10:02.457]: 
+  And learning how to make things is a simple thing.
+
+ SPEAKER_04 [1:10:23.027 --> 1:10:30.975]: 
+  So if you spawn as a chef or something, it'll change the way you speak. It'll put z instead of the. Oh yeah. It goes.
+
+ SPEAKER_03 [1:10:29.727 --> 1:10:36.460]: 
+  Oh yeah, it goes, and it makes you the Swedish chef, so it puts bork bork bork at the end of anything you say. Mimes can't talk.
+
+ SPEAKER_04 [1:10:36.392 --> 1:10:38.940]: 
+  Yeah, or if you get like smacked on the head with a toolbox
+
+ SPEAKER_03 [1:10:38.940 --> 1:10:45.454]: 
+  And if you type in like if you lose teeth all of your teas teas and TH's come out like Sean Connery like it spells everything like this
+
+ SPEAKER_04 [1:10:43.429 --> 1:10:51.445]: 
+  Like it spells everything like this. Or if you get like knocked out and if you're trying to talk it'll be like this person tried saying like I went to the
+
+ SPEAKER_02 [1:10:51.445 --> 1:10:53.487]: 
+  or but instead he'd be like I would
+
+ SPEAKER_03 [1:10:53.487 --> 1:11:00.270]: 
+  It cuts out words and letters. When you get zapper electrocuted, it's like, it's, I, wuh, wuh, wuh, wuh, wuh, wuh, wuh, wuh, and to do you too.
+
+ SPEAKER_02 [1:10:55.124 --> 1:10:55.950]: 
+  Yeah.
+
+ SPEAKER_00 [1:10:55.950 --> 1:10:56.507]: 
+  or electrocuted.
+
+ SPEAKER_04 [1:10:56.507 --> 1:10:57.452]: 
+  is it really well?
+
+ SPEAKER_04 [1:10:59.140 --> 1:11:24.081]: 
+  You too, stop. Yeah, it's really clever. It's a really good game. I like the idea. It's hard to see, understand what's going on. I'll show you a picture. It's not going to help people. Somebody was like, I want to design a game where it's like, people can truly experience a true role-playing space game where there's bad people and good people. Each genre has a lot of work to it. But I don't think they realize that they created a game that, because you know what, that was kind of like the ship for me.
+
+ SPEAKER_03 [1:11:02.970 --> 1:11:03.308]: 
+  I like that.
+
+ SPEAKER_01 [1:11:03.308 --> 1:11:03.966]: 
+  That's what it is.
+
+ SPEAKER_01 [1:11:04.995 --> 1:11:05.940]: 
+  I understand what's going on.
+
+ SPEAKER_02 [1:11:05.940 --> 1:11:06.497]: 
+  I'll show you
+
+ SPEAKER_03 [1:11:06.059 --> 1:11:08.303]: 
+  I'll show you a picture. It's not going to help people.
+
+ SPEAKER_02 [1:11:15.863 --> 1:11:20.436]: 
+  Each job has a lot of work to it. But I don't think they realize that they created the...
+
+ SPEAKER_03 [1:11:20.436 --> 1:11:21.314]: 
+  game that
+
+ SPEAKER_03 [1:11:24.081 --> 1:11:29.042]: 
+  Oh the ship, I played that, oh my god. I will tell you how I grouped in that next.
+
+ SPEAKER_02 [1:11:29.042 --> 1:11:33.177]: 
+  Yeah, for a new player, for a person who doesn't understand the game, it's really hard to...
+
+ SPEAKER_03 [1:11:32.805 --> 1:12:23.346]: 
+  Have you guys played the ship before? We should play the ship. It was using like the valve, one of their engines, I think. The idea is that it can't be, it's a multiplayer game. It can't be played with like fewer than like two or three people, I guess. The premise of the game is that you're on a ship, you're like a random person with a random name. And somewhere on the ship out of all the other players, you never are given an NPC, but somewhere on the ship is a target, is another player. You don't know where they are and you have to hunt them down, look for clues, kind of like follow security to like try to find where they are and kill that person. They do not know who is coming for them, but they have a target of their own. If you kill someone who is not your target, you get penalized stiffly for points. Yeah. And so that's, you know, you can't just go around killing people. You can, you'll never win, you'll just be this jackass that's killing everybody. It's really scary, that's like really nerve-wracking. It is, yeah, because you come up on someone, the only one you know couldn't be your, like someone come for you is your target.
+
+ SPEAKER_02 [1:11:34.425 --> 1:11:34.847]: 
+  should play the game.
+
+ SPEAKER_04 [1:12:15.212 --> 1:12:17.946]: 
+  everybody that's really scary that's like really nerve-wracking it is
+
+ SPEAKER_02 [1:12:15.550 --> 1:12:16.005]: 
+  That's really good.
+
+ SPEAKER_04 [1:12:23.346 --> 1:12:25.624]: 
+  Every single person you see coming, you'll be like shitting your pants.
+
+ SPEAKER_03 [1:12:24.865 --> 1:13:05.719]: 
+  Now you can't do anything in front of security or they arrest you and then you're out of the game for like three minutes or something So you have to plan these hits to happen and like hidden rooms and stuff Yeah, you follow the rules. It's a very cool idea So I discovered that people are you're allowed to kill the person who's coming for you But you don't know who they are until they come swinging It was so easy to grab a gun and go up to somebody like let's say you're my target and I aimed like at you But oh boy from you and go bang and you're like fuck that guy's after me you kill me I was not after you I was not your target and you just your score just went boom like that And you were fucked and I was ruining people's games that way Like people who are like hardcore trying to play the game and I like like like like twitch gameplay like oh he's after me Bam, he's dead and you just penalize that all the way. Yeah
+
+ SPEAKER_01 [1:12:52.894 --> 1:12:54.092]: 
+  with that. And you were
+
+ SPEAKER_01 [1:12:55.915 --> 1:12:56.539]: 
+  That way.
+
+ SPEAKER_04 [1:13:03.492 --> 1:13:15.945]: 
+  And you just penalize that all over the place. That's what I would do. I would follow people into the room and I would have blood objects. And they would be like looking at it like you know they'd be like kind of scouring around the room and I'd just come in like swinging shit and then they would fucking kill me. Cause I didn't know what to do.
+
+ SPEAKER_03 [1:13:15.945 --> 1:13:30.222]: 
+  I didn't want to kill them. Yeah, if you hit them a couple times with the spanner, it's what British people call a screwdriver, or no wrench. So you come in with your spanner and you're whacking at them, and it doesn't kill them right away. It's a very weak weapon. Exactly. I would use this ability. You're not penalized for hurting them, and you could send people into combat with no health.
+
+ SPEAKER_04 [1:13:20.485 --> 1:13:20.940]: 
+  Yeah.
+
+ SPEAKER_01 [1:13:20.940 --> 1:13:21.244]: 
+  wrench.
+
+ SPEAKER_04 [1:13:25.362 --> 1:13:27.589]: 
+  Exactly. I would usually...
+
+ SPEAKER_04 [1:13:30.087 --> 1:13:45.747]: 
+  Used to do that and hit them and then run out of the room They'd fucking chase me and I go into like a room before the people and start fucking hitting them They would be freaking out because they didn't know who it was So they would just start hitting people and it would just be like someone would have a fucking gun and then just start picking people up
+
+ SPEAKER_03 [1:13:45.595 --> 1:13:54.960]: 
+  Because most of the weapons in this game are like found objects like a fire extinguisher or a knife. Yeah right, exactly. Like a kitchen knife is like a good find. Finding a weapon is rare.
+
+ SPEAKER_04 [1:13:46.489 --> 1:13:46.725]: 
+  Thank you.
+
+ SPEAKER_01 [1:13:49.122 --> 1:13:51.450]: 
+  Yeah, right, exactly.
+
+ SPEAKER_04 [1:13:54.589 --> 1:14:04.512]: 
+  You know, that was like Minecraft. I don't want to go back to this fucking game. But in Minecraft, you go up to them and you hit them, and they fucking kill you, and then you're like, uh, this guy just killed me? And then they get banned.
+
+ SPEAKER_03 [1:13:57.340 --> 1:13:58.285]: 
+  Yeah, fuck that shit.
+
+ SPEAKER_03 [1:14:00.917 --> 1:14:01.187]: 
+  Yeah.
+
+ SPEAKER_03 [1:14:04.259 --> 1:15:27.300]: 
+  I tried that in space station 13 and they have a log of when you did anything. Yeah, they've got a log for every single It's tiny little action like I we did a role-play server Me and my cousin not that long ago. I told you about this right Chris where I came on as the captain you got addicted to this fucking game I did I I went on to this one server and I like it was a heavy role-play server The game had been going for like four hours and nobody picked the captain. Yeah, so I joined on to the captain like I could do more Damage this way. It's really annoying the server It's not the it's not set up the way I'm used to because everything is like kind of pseudo open source So they there's modification server to server. They just don't match from one to the next So I find my way back to my like captain's bridge I'm like role-playing with these people and on my calm like a boy captain welcome aboard like a thank you What's the situation? Oh, we're looking for the the chief medical officer has gone missing for your dad Oh, well, who do we have on security? Who can get on it? And I'm trying to like hack my way to the because there all these doors are like locked I eventually get to the captain's quarters. I'm like I hate the server I need to quit and I'm not gonna just like quit the game what I do is I go into the captain's quarters I go into my private bed chamber. I pick up a bottle of booze and a cigar. I'd like the cigar with matches You have to use the match on the matchbook Then you use the batch that's lit on the cigar and you put it into your mouth slot This is the detail of this game I grabbed my bottle of booze and my flask and I go into the shower and I commit suicide I figured this is like a just like a nice noir way to go And it's all so shitty because by having played the captain and killed myself No one else can be catch
+
+ SPEAKER_02 [1:14:09.085 --> 1:14:09.743]: 
+  Every single one.
+
+ SPEAKER_02 [1:14:16.560 --> 1:14:17.252]: 
+  came out as the captain.
+
+ SPEAKER_03 [1:15:29.123 --> 1:16:08.847]: 
+  And so I type in suicide, which is the way that you normally do this. This server has it set so no, you can't do that. It says no, you can't do that. Ask an admin if you'd like to kill yourself. You're like, all right, it's like a fucking hotline. It's like a fucking hotline. So I'm like, all right, so I'm going to do ghost, where you don't really kill yourself so much as you go limp and lifeless and your ghost flies out of your body. And you're basically done with the round. But it's the same thing as suicide. It's just like you can actually go back in if the admin says it's OK. So I do that. And then I get a message from the admin. So why'd you do that? He was pissed off because that's really against server rules on a role-play server. Just join in, kill yourself, and leave.
+
+ SPEAKER_03 [1:16:10.500 --> 1:16:49.448]: 
+  And I committed suicide in the shower. I turned it on and everything. Like I turned on the shower, I drank the booze, I smoked the cigar and I killed myself. And apparently the admin had a log of me having tried to type in suicide. And so he's like, well, it looks like you tried to type suicide, then type ghost and hit yes. So we'll be careful to explain what happened. I said it was an accident. He goes, he goes, no, it clearly wasn't. I go, no, no, no, I hit yes by accident. I was just testing off the server commands because I haven't used this one yet. He's talking directly to the admin. He's like, oh, like yeah, I hit yes by accident. Like in my server, it's on the other side. I didn't mean to. He's like, oh, all right, we'll try to let it happen again. Probably just gonna be like, look at this.
+
+ SPEAKER_04 [1:16:49.448 --> 1:16:54.460]: 
+  I was a depressed captain I was role-playing as a depressed captain I killed myself Exactly, it's around the server
+
+ SPEAKER_03 [1:16:52.840 --> 1:17:12.212]: 
+  Exactly. On that server, well that's why we, they hadn't like, uh, IP banned us yet. On that server where they hauled us to jail for you for saying I'll suck you off later, baby. And me for throwing the backs of blood. What we came back in is those new characters. And I found the person who ID'd me, a fellow medical person. I found the person who did this. I followed them around and I stabbed her in the eye with a screwdriver.
+
+ SPEAKER_01 [1:16:57.210 --> 1:16:57.700]: 
+  on that server.
+
+ SPEAKER_03 [1:17:13.647 --> 1:18:05.099]: 
+  Until they caught me and security finally was chasing me and I remember I'm running through the halls and they finally flashed on me Like they're locking down the AI and the ship is locking down doors like as I'm passing through them They're locking them down so they're like open the door Until finally they slammed the door shut in this one hallway and like all right So I go back and I stab one of the security members in the eye She can't see me so I'm like I nearly get away and the guy like stun batons me and takes me to jail Yeah, when you stab people in the eyes that their screen goes black. They're blind Yeah, they can't see anything for a couple seconds like it's not permanent like it's pain until it can't be it can't be yeah Usually after a couple stabs. Okay So they take me to jail and I'm like fuck all right, so I know I blinded that person I stabbed them until she like fell down, but she didn't die which is my goal So I'm like fuck all right, so I start a new character new new account Chris does the same thing or he's already on one and means
+
+ SPEAKER_00 [1:17:26.995 --> 1:17:28.024]: 
+  I'm not catching me.
+
+ SPEAKER_04 [1:17:39.297 --> 1:17:40.005]: 
+  Yeah, when you stab people like that,
+
+ SPEAKER_04 [1:18:04.592 --> 1:18:13.114]: 
+  Me and Swain were going through like throwaway emails like I had like huleas, booleas, coulias, doulias, fuleas and like it just kept going on.
+
+ SPEAKER_03 [1:18:07.090 --> 1:18:08.102]: 
+  like that.
+
+ SPEAKER_03 [1:18:12.878 --> 1:19:00.449]: 
+  Yeah, I have a couple I'm not gonna say the names because I don't want to ban from the servers that I'm talking about But it's like a bunch of the same name with like one letter change should like be 69 And so we go back we were like alright, we know where she's gonna be so Time for revenge time for revenge again like we didn't kill her so we're not done yet So I think we managed to kill her. I'm not sure if we did but uh, we've maimed her We need to do a good job. We know where to find her and fucking medbay So I make another doctor I lead us both in there and we go in we grab like the circular saw On the table while the robot is operating on her we grab the circular saw and just start going at her They catch me they kill me Chris's character He's like no, no, it wasn't like it was I was trying to go for him I was trying to stop him or like we talked it out of it and I'm fine like Chris Just do it just fucking kill her just fucking kill her and I think you managed to do it before they got you and drag you out
+
+ SPEAKER_04 [1:18:15.409 --> 1:18:16.439]: 
+  from the servers that I'm talking about.
+
+ SPEAKER_01 [1:18:19.493 --> 1:18:19.864]: 
+  Yeah.
+
+ SPEAKER_01 [1:18:20.995 --> 1:18:21.400]: 
+  Thanks.
+
+ SPEAKER_00 [1:18:24.792 --> 1:18:25.281]: 
+  Ku analyzer followers
+
+ SPEAKER_02 [1:18:32.217 --> 1:18:33.212]: 
+  Yeah.
+
+ SPEAKER_04 [1:19:00.263 --> 1:19:16.007]: 
+  The best thing that ever happened was when I got like brought into prison and they were like stripping me down And then for like one like from microsecond my hands were free because she was putting me in bed and taking up my handcuffs Yeah, and for that microsecond I like punched her in the head and she fell on the floor and I was like
+
+ SPEAKER_02 [1:19:00.280 --> 1:19:01.529]: 
+  The best piece of shit.
+
+ SPEAKER_01 [1:19:10.877 --> 1:19:11.164]: 
+  Yeah.
+
+ SPEAKER_03 [1:19:16.007 --> 1:19:31.853]: 
+  I think Ryan will start looking here. As you just darted out of there, and knowing what I know now, I know how to get it so you can take the cuffs or whatever that you were using, keep hitting her on the ground so she stays there and had a handcuffer wall she's there, and now she's your prisoner and you put her in jail. Take her ID card and I'm taking her job.
+
+ SPEAKER_04 [1:19:30.149 --> 1:19:48.492]: 
+  Take her ID card and I'll be taking her job.
+
+ SPEAKER_03 [1:19:47.665 --> 1:20:08.185]: 
+  Yeah, until you get it down to like muscle memory like a lot of other games. Yeah. And it's all like, there's quick keys, yeah, but you still have to move the mouse around and accurately click on the handcuffs. And you have to put it into the hand. Like the hand controls are ridiculous. You put things into your hand and use it from that hand. Yeah. By like clicking on that hand. It's very weird, it's very clunky when you get used to it, it's great. It really feels like a fumbling thing. Yeah.
+
+ SPEAKER_01 [1:19:50.483 --> 1:19:50.989]: 
+  Yeah.
+
+ SPEAKER_02 [1:19:50.500 --> 1:19:50.939]: 
+  Yeah.
+
+ SPEAKER_04 [1:20:05.299 --> 1:20:26.072]: 
+  It's very clunky when you get used to it. It really feels like a problem. Yeah. How did this game keep such a like, did it keep a low profile for a number of years? It's part of this weird like shittiest like freest game service called Beyond. And it's the only good game on there. There's like other games that are like Dragon Ball, like role play. I read about it, it's like a fluid simulator or something. And it evolved into a game.
+
+ SPEAKER_03 [1:20:11.661 --> 1:20:12.657]: 
+  I feel like it did it.
+
+ SPEAKER_02 [1:20:21.229 --> 1:20:23.288]: 
+  I read a lot of it, and said the King started as a kid.
+
+ SPEAKER_03 [1:20:25.161 --> 1:20:45.765]: 
+  Yeah, right, yeah, like that's what I heard. It was like an atmospheric or like some kind of simulation It's a guy designed and then I was I watched a video in the history of this thing and like somebody apparently stole the code from the source Creators computer and started repurposing it into this game And it was really really bad for many years, but a couple years ago They like they finally got to a point where it was like people
+
+ SPEAKER_04 [1:20:44.247 --> 1:20:46.289]: 
+  They finally got two point rules. People tinkered with it.
+
+ SPEAKER_02 [1:20:46.289 --> 1:20:51.452]: 
+  at endlessly for years. It's pretty well balanced. Swain's found some things that you can do that can be
+
+ SPEAKER_04 [1:20:47.672 --> 1:20:47.807]: 
+  Yes.
+
+ SPEAKER_03 [1:20:47.807 --> 1:20:48.499]: 
+  Yeah.
+
+ SPEAKER_04 [1:20:48.499 --> 1:20:48.634]: 
+  It's
+
+ SPEAKER_04 [1:20:51.452 --> 1:20:55.941]: 
+  completely break it pretty fast but for the most part every job has it's like it's slow per
+
+ SPEAKER_02 [1:20:52.937 --> 1:20:54.524]: 
+  But for the most part, every job has a purpose.
+
+ SPEAKER_03 [1:20:55.941 --> 1:21:14.841]: 
+  progression. Yeah, the station is like a living organism if you play it to have fun. And there are times where I do try, like if I'm stuck doing a job and I'm not given an antagonist to roll that round, I'm like fuck it, I'm gonna learn how to be a better antagonist by doing my job and figuring out where does this passage go. How can I break into the captain's quarters without getting caught?
+
+ SPEAKER_04 [1:21:14.571 --> 1:21:17.963]: 
+  He's learned how to hack doors and shit. And it's really not hard.
+
+ SPEAKER_03 [1:21:16.495 --> 1:21:43.630]: 
+  And it's really not hard. It's not hard, but you have to first know that that's even the thing you can do in the first place. And then of course learn how to do the steps. See, that's... I want people playing my game like they play Space Station 13. Whether it's... I just want people to be invested in it and feel like when they jump in that their little avatar is their guy. That's what I want from our Madness game that we're doing. Like when someone's playing your game, what do you want them to have out of it? And ideally, like, when you're making the game, you want to feel that way about your own game. That's what you know you've got it, right?
+
+ SPEAKER_04 [1:21:41.706 --> 1:22:01.619]: 
+  That's what we know you've got it. This is actually something that we could talk about this because this is something we discussed where we want to have like an element of Interactivity where you can also be nice in an asshole So it's kind of like based on what you want to be like you can be somebody like where when you help someone up You can like press a button and let them fall and die while you're
+
+ SPEAKER_03 [1:22:01.129 --> 1:22:07.660]: 
+  You mean like a little big planet where they're about to stick that jump and you grab and let go so that it was at their timing Exactly, so just like
+
+ SPEAKER_04 [1:22:06.192 --> 1:22:21.987]: 
+  Exactly, so just like stuff like that. Like you put your hand out to like kind of like, they're like, oh it's like your thing, it's like, oh you shake my hand, but really what you're doing is you're taking their energy and then you can punch them and knock them out. So it's just like stuff like, you know, where you fuck with them and then there's just like that sort of thing.
+
+ SPEAKER_01 [1:22:12.486 --> 1:22:13.161]: 
+  Oh, you're gonna shake that?
+
+ SPEAKER_02 [1:22:21.987 --> 1:22:30.694]: 
+  There's about like three video games and the history of thousands of video games. So maybe like three that could make people laugh. So we want to, I think I want to be one of them. Yeah, exactly. Make it.
+
+ SPEAKER_04 [1:22:29.175 --> 1:22:35.976]: 
+  Yeah, exactly. Make a funny game that you can also want to like, grief your friends in. Basically.
+
+ SPEAKER_03 [1:22:35.909 --> 1:22:37.832]: 
+  You made a shit ton of games.
+
+ SPEAKER_04 [1:22:36.803 --> 1:23:01.221]: 
+  Shit ton of games. I just wanted to be lots of fun. Yeah, exactly. Fun and funny. You know, they make fun of plays that they're like, this is fun. Wild, wild romp. And it's funny, it's not a game that like, uh, you look at as like emergent gameplay, but emergent gameplay is something that I like where it's, I'm hoping it'll be a game that people can surprise each other with the crazy shit they do. I do feel like it'll be like a game where you discover stuff you can do. Like there's things you can do, but you have to kind of discover it by fucking around and playing it. Or watch somebody's game.
+
+ SPEAKER_03 [1:22:38.997 --> 1:22:41.562]: 
+  Yeah, exactly. Fun and funny.
+
+ SPEAKER_01 [1:22:54.083 --> 1:22:54.370]: 
+  I do.
+
+ SPEAKER_03 [1:23:00.647 --> 1:23:21.758]: 
+  watch somebody else with a different playstyle. I don't know if I showed you things that you didn't know could happen or something. Exactly. And then you like... So you got all these people, fans of Sleepy Cabin and also people who know that Tom Folt and Jeff Bandolin and Cory What's-his-Face are making this game and I don't think anybody knows a lot about it. What can people know about that? That's not like, you know...
+
+ SPEAKER_04 [1:23:02.402 --> 1:23:03.533]: 
+  I don't know if I showed you things.
+
+ SPEAKER_04 [1:23:04.765 --> 1:23:05.811]: 
+  Exactly.
+
+ SPEAKER_04 [1:23:06.503 --> 1:23:06.807]: 
+  Certainly—
+
+ SPEAKER_02 [1:23:21.404 --> 1:23:30.499]: 
+  It's a bunch of genres mashed together. No, it's kinda like... There's your answer. Night after night. If you mix Kingdom Hearts colors... Yeah, some pictures moving.
+
+ SPEAKER_03 [1:23:24.340 --> 1:23:31.630]: 
+  No, it's kind of like... There you go, there's your answer. Night of the Pacific. If you mix Kingdom Hearts 2... Yeah, yeah, yeah, yeah, man. Yeah, some pictures move and you press buttons to call.
+
+ SPEAKER_04 [1:23:30.499 --> 1:23:34.245]: 
+  You press buttons to cause tank man you get the game will work
+
+ SPEAKER_04 [1:23:35.410 --> 1:23:38.937]: 
+  It's not true. It's like, okay, so it's kind of like... When you say it's like...
+
+ SPEAKER_02 [1:23:38.346 --> 1:23:43.915]: 
+  You say it's like second life? It is second life. They just murdered it. I mean, it's not... I'm saying it's not...
+
+ SPEAKER_04 [1:23:41.502 --> 1:23:45.940]: 
+  It's not like Castle Crashers really.
+
+ SPEAKER_02 [1:23:45.940 --> 1:23:47.492]: 
+  but it's a like house of cash
+
+ SPEAKER_04 [1:23:47.492 --> 1:23:48.944]: 
+  I think if you like the multiplayer
+
+ SPEAKER_02 [1:23:48.944 --> 1:23:51.492]: 
+  aspect of castle crashes.
+
+ SPEAKER_04 [1:23:50.344 --> 1:24:07.675]: 
+  There's like some aspects of the game where you could just you know you can come with your friends and you could just There's like kind of like this overhead style thing in the game where if you're if you want you don't necessarily have to sit there and Go through levels you can just go around
+
+ SPEAKER_03 [1:23:51.492 --> 1:23:54.411]: 
+  Rocky- Which genre would you put it in would you say Needle-Sviolitege?
+
+ SPEAKER_02 [1:24:06.122 --> 1:24:13.767]: 
+  Let's just say our world map is pretty in-depth. It's pretty cool. I won't say anything about it. There's a delivery in that talk as well.
+
+ SPEAKER_03 [1:24:09.784 --> 1:24:19.943]: 
+  It's pretty cool, I won't say anything about it. Those are deliberately not talking about it. Hey, thanks for joining us, everybody. I'm pretty sure none of you know who I am. I hope maybe now you do. It was a pleasure to meet all of you.
+
+ SPEAKER_04 [1:24:18.407 --> 1:24:22.052]: 
+  It was a pleasure to meet all of you. Check out his madness game.
+
+ SPEAKER_02 [1:24:21.799 --> 1:24:25.950]: 
+  But you're not single so girls can leave you all alone. Yeah so ladies, hands off the merchant.
+
+ SPEAKER_03 [1:24:23.639 --> 1:24:26.440]: 
+  Yeah, so Lady is hands off the merchandise.
+
+ SPEAKER_04 [1:24:25.950 --> 1:24:31.317]: 
+  If you want to plug your hands off the virtual digital
+
+ SPEAKER_03 [1:24:28.161 --> 1:24:51.060]: 
+  Yeah, hands off the virtual digital Okay, so I'm working out a game with crinkles from new grounds called madness project nexus 2 It is a 3d pc and mac title and try to release this on steam at some point We're getting pretty close to having an alpha that we're gonna have for people to play We're working on it and go to project nexus 2.com and get some links to see what the what the effort up to
+
+ SPEAKER_02 [1:24:50.082 --> 1:24:52.444]: 
+  What the f were up to? You're considered as connet madness.
+
+ SPEAKER_03 [1:24:52.343 --> 1:25:00.494]: 
+  It's still a working title. Still just a working title. For the Flash game, I wanted to separate it from the series and also from Interactive. It's so different.
+
+ SPEAKER_02 [1:24:53.963 --> 1:24:55.380]: 
+  Still does work in title.
+
+ SPEAKER_04 [1:24:59.734 --> 1:25:02.215]: 
+  It's so different, it seems like it's so...
+
+ SPEAKER_03 [1:25:01.169 --> 1:25:23.595]: 
+  I could just we could just call it project nexus or just I have considered you should just call it madness I thought about it. I feel like swing swing goals Calm call it swing goals. You know I want I for every sleepy cabin What if you do like do you have like an outro plug for your website like sleepy cabin calm or something like that? Did you do sometimes from now on what you instead of calm be like sleepy cabin?
+
+ SPEAKER_04 [1:25:03.531 --> 1:25:07.969]: 
+  called Swingles. You know, I have considered this. You should just call it madness. Call it Swingles.
+
+ SPEAKER_03 [1:25:24.608 --> 1:25:29.265]: 
+  Like a bird sound? Sleepy cabin that.
+
+ SPEAKER_02 [1:25:27.477 --> 1:25]: 
+  Sleep.
+
+ SPEAKER_03 [1:25:30.683 --> 1:25:44.453]: 
+  Or like a creaking door, like that's your thing. But it does really help people find your website. I really want this. I want this to be a thing. Tom, do you want to plug in anything? Griefing number. Newgrounds.com, home of the original internet. Yeah, it's chickennewgrounds.com.
+
+ SPEAKER_04 [1:25:41.770 --> 1:25:44.824]: 
+  on the digital internet. Yeah, it's chickengrounds.com.
