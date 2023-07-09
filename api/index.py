@@ -1,26 +1,22 @@
 from flask import Flask
 from flask_cors import CORS
 from readFile import *
-from episodeNames import *
-
-with open("sleepycast/SleepyCast (Pilot) - [Just Spittin' the Shit].txt", encoding="utf8") as file:
-    text = file.readlines()
 
 app = Flask(__name__)
 CORS(app)
 
-
+with open("episode_metadata.json", "r") as f:
+    episode_metadata = json.load(f)
 
 @app.route("/api/episode_data/<episodeName>")
 def episode_data(episodeName):
-    print(slugConverter["sleepycast-04-the-ghosts-of-grandmas-genitals"])
-    # print(episodeName)
-    episode = get_episode(slugConverter[episodeName])
+    episode = get_episode(episodeName)
     return episode
 
 @app.route("/api/episode_name")
 def episode_name():
-    names = get_names()
+    with open("name_list.json", "r", encoding="utf-8") as f:
+        names = json.load(f)
     return names
 
 if __name__ == "__main__":
