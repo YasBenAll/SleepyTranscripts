@@ -44,11 +44,10 @@ def get_episode(episode_name):
         name_list = json.load(file)
 
     for i in name_list:
-        # print(i['name'])
-        # print(episode_name)
         if i["slug"] == episode_name:
             episode_members = i["members"]
             break
+
     print(episode_members)
     with open(f"sleepycast/{episode}", encoding="utf8") as file:
         text = [line for line in file.readlines() if line!="\n"]

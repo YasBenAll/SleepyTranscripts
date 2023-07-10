@@ -14,7 +14,6 @@ chris = "Chris"
 with open("data/sleepycast_members.json", "r") as file:
     sleepycast_members = json.load(file)
 
-
 with open("data/sleepycast_sparse_episode_matrix.json", "r") as file:
     sleepycast_sparse_episode_matrix = json.load(file)
 

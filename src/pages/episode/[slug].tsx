@@ -22,15 +22,21 @@ export default function EpisodePage() {
   // Function to create YouTube timestamp link
   const createYouTubeTimestampLink = (time) => {
     const youtubeLink = episodeData["youtube_link"];
+    console.log(youtubeLink);
     const timestamp = time.replace(/:/g, 'm') + 's';
-    return `${youtubeLink}&t=${timestamp}`;
+    if (youtubeLink === null  || youtubeLink === undefined) {
+      return `#`;
+    }
+    else{
+      return `${youtubeLink}&t=${timestamp}`;
+    }
   };
 
   // Function to render dialog line with clickable timestamp
   const renderDialogLine = (item, i) => {
     return (
       <div key={i}>
-        {item.speaker}
+        {/* {item.speaker} */}
         <text> [</text>
         <Link href={createYouTubeTimestampLink(item.start_time)} target="_blank">
           {item.start_time}
@@ -41,13 +47,19 @@ export default function EpisodePage() {
     );
   };
 
+  
+
   return (
     <div>
       <Link href="/">Back</Link>
-      <div className="text-4xl">{episodeData["members"]}</div>
-      <div className="text-4xl">{episodeData["episode_name"]}</div>
-      <Link href={episodeData["youtube_link"]} target="_blank">episode link</Link>
-      <div className="text-4xl">Episodes:</div>
+      <div>With {episodeData["members"]}</div>
+      <Link
+        className="text-4xl"
+        href={episodeData["youtube_link"] || "#"}
+        target="_blank"
+      >
+        {episodeData["episode_name"]}
+      </Link>
       {episodeData["dialog"].map(renderDialogLine)}
     </div>
   );
