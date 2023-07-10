@@ -2,11 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
+/* :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 235, 255;
   --background-end-rgb: 214, 155, 255;
-}
+} */
 
 
 @media (prefers-color-scheme: dark) {
@@ -17,12 +17,10 @@
   }
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+body { 
+  color: white; 
+ } 
+
+html {
+  background: #0b0215 url("/THEWOODS.jpg") no-repeat fixed;
 }
