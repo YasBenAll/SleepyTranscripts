@@ -24,3 +24,9 @@ body {
 html {
   background: #0b0215 url("/THEWOODS.jpg") no-repeat fixed;
 }
+
+@layer utilities {
+  .bg-sleepycabin {
+    background-image: url('/patternDARK.png');
+  }
+}

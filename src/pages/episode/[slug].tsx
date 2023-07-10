@@ -50,17 +50,22 @@ export default function EpisodePage() {
   
 
   return (
-    <div>
-      <Link href="/">Back</Link>
-      <div>With {episodeData["members"]}</div>
-      <Link
-        className="text-4xl"
-        href={episodeData["youtube_link"] || "#"}
-        target="_blank"
-      >
-        {episodeData["episode_name"]}
-      </Link>
-      {episodeData["dialog"].map(renderDialogLine)}
-    </div>
+<div className="bg-sleepycabin p-4 rounded-md mx-auto max-w-lg">
+  <Link href="/">
+    <div className="text-blue-500 hover:underline">Back</div>
+  </Link>
+  <div className="mt-4">With {episodeData["members"]}</div>
+  <Link
+    className="text-4xl mt-4"
+    href={episodeData["youtube_link"] || "#"}
+    target="_blank"
+  >
+    {episodeData["episode_name"]}
+  </Link>
+  <div className="mt-4">
+    {episodeData["dialog"].map(renderDialogLine)}
+  </div>
+</div>
+
   );
 }
