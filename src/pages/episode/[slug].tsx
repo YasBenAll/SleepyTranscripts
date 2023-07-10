@@ -5,7 +5,6 @@ import { useEffect, useState } from 'react'
 export default function EpisodePage() {
   const router = useRouter();
   const { slug } = router.query;
-  console.log(slug)
   const [episodeData, setEpisodeData] = useState(null);
 
   useEffect(() => {
@@ -15,7 +14,7 @@ export default function EpisodePage() {
         .then((data) => setEpisodeData(data));
     }
   }, [slug]);
-  
+
   if (!episodeData) {
     return <div>Loading...</div>;
   }
@@ -33,7 +32,7 @@ export default function EpisodePage() {
       <div key={i}>
         {item.speaker}
         <text> [</text>
-        <Link href={createYouTubeTimestampLink(item.start_time)}>
+        <Link href={createYouTubeTimestampLink(item.start_time)} target="_blank">
           {item.start_time}
         </Link>
         <text>] </text>
@@ -45,8 +44,9 @@ export default function EpisodePage() {
   return (
     <div>
       <Link href="/">Back</Link>
+      <div className="text-4xl">{episodeData["members"]}</div>
       <div className="text-4xl">{episodeData["episode_name"]}</div>
-      <Link href={episodeData["youtube_link"]}>episode link</Link>
+      <Link href={episodeData["youtube_link"]} target="_blank">episode link</Link>
       <div className="text-4xl">Episodes:</div>
       {episodeData["dialog"].map(renderDialogLine)}
     </div>

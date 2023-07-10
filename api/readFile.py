@@ -39,6 +39,17 @@ def get_episode(episode_name):
     episode_metadata = get_metadata()
     episode = episode_metadata[episode_name]["name"]
 
+    episode_members = []
+    with open(f"name_list.json") as file:
+        name_list = json.load(file)
+
+    for i in name_list:
+        # print(i['name'])
+        # print(episode_name)
+        if i["slug"] == episode_name:
+            episode_members = i["members"]
+            break
+    print(episode_members)
     with open(f"sleepycast/{episode}", encoding="utf8") as file:
         text = [line for line in file.readlines() if line!="\n"]
         speakers = speaker_process([i.replace("\n", "")[1:-2] for i in text[::2]])
@@ -47,6 +58,5 @@ def get_episode(episode_name):
         data["dialog"]=[{"speaker":i[0][0], "dialog":i[1][2:], "start_time":i[0][1], "end_time":i[0][2]} for i in zip(speakers, dialog)]
         data["episode_name"]=episode[:-4] 
         data["youtube_link"]=episode_metadata[episode_name]["youtube"]
-        
-        # print(json.dumps(data))
+        data["members"]=episode_members
         return json.dumps(data)
