@@ -17,10 +17,10 @@ export default function Home() {
   return (
     <>
       <div className="flex justify-center">
-        <div className="bg-sleepycabin p-4 rounded-md">
-          <div className="text-5xl">Episodes:</div>
+        <div className="bg-sleepycabin bg-opacity-10 p-30 px-6 py-6 rounded-md mx-auto  max-w-3/4 w-2/3 mt-8 ">
+          <div className="text-5xl flex flex-col items-center py-6">Episodes:</div>
           {!loading ? (
-            <ul className="list-inside mt-4">
+            <ul className="list-inside mt-4 ">
               {data.map((item: any, i: any) => (
                 <li key={i} className="my-2">
                   <Link href={`/episode/${item.slug}`}>
