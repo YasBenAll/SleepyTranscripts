@@ -1,3 +1,4 @@
+import Head from 'next/head'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
 import { useEffect, useState } from 'react'
@@ -68,7 +69,7 @@ export default function EpisodePage() {
         </Link>
         <text>] </text>
         <text className='text-white'>
-        -  {item.dialog}
+         -  {item.dialog}
         </text>
 
       </div>
@@ -79,25 +80,31 @@ export default function EpisodePage() {
   
 
   return (
-<div className="bg-sleepycabin p-30 px-6 py-6 rounded-md mx-auto  max-w-3/4 w-2/3 mt-8">
-  <Link href="/">
-    <div className="text-blue-500 hover:underline">Back</div>
-  </Link>
-  <div className="mt-4">Featuring {formatMemberNames(episodeData["members"])}</div>
-  <Link
-    className="text-4xl mt-4"
-    href={episodeData["youtube_link"] || "#"}
-    target="_blank"
-  >
-    {episodeData["episode_name"]}
-  </Link>
-  <div className="mt-4">
-    {episodeData["dialog"].map(renderDialogLine)}
-  </div>
-  <Link href="/">
-    <div className="text-blue-500 hover:underline py-3">Back</div>
-  </Link>
-</div>
+    <>
+      <Head>
+        <title>{episodeData["episode_name"]}</title>
+        <meta property="og:title" content="My page title" key="title" />
+      </Head>
+      <div className="bg-sleepycabin p-30 px-6 py-6 rounded-md mx-auto  max-w-3/4 w-2/3 mt-8">
+        <Link href="/">
+          <div className="text-blue-500 hover:underline">Back</div>
+        </Link>
+        <div className="mt-4">Featuring {formatMemberNames(episodeData["members"])}</div>
+        <Link
+          className="text-4xl mt-4"
+          href={episodeData["youtube_link"] || "#"}
+          target="_blank"
+        >
+          {episodeData["episode_name"]}
+        </Link>
+        <div className="mt-4">
+          {episodeData["dialog"].map(renderDialogLine)}
+        </div>
+        <Link href="/">
+          <div className="text-blue-500 hover:underline py-3">Back</div>
+        </Link>
+      </div>
+    </>
 
   );
 }
