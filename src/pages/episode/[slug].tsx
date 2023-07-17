@@ -58,15 +58,20 @@ export default function EpisodePage() {
   // Function to render dialog line with clickable timestamp
   const renderDialogLine = (item, i) => {
     return (
+      <MessageBox type="info">
       <div key={i}>
         {/* {item.speaker} */}
         <text> [</text>
-        <Link href={createYouTubeTimestampLink(item.start_time)} target="_blank">
+        <Link className ="" href={createYouTubeTimestampLink(item.start_time)} target="_blank">
           {item.start_time}
         </Link>
         <text>] </text>
-        {item.dialog}
+        <text className='text-white'>
+        -  {item.dialog}
+        </text>
+
       </div>
+      </MessageBox>
     );
   };
 
