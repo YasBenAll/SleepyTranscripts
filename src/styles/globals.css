@@ -29,4 +29,16 @@ html {
   .bg-sleepycabin {
     background-image: url('/patternDARK.png');
   }
+  .bg-green-100 {
+    --tw-bg-opacity: 1;
+    background-color: rgba(72, 187, 120, var(--tw-bg-opacity));
+  }
+  .bg-red-100 {
+    --tw-bg-opacity: 1;
+    background-color: rgba(239, 68, 68, var(--tw-bg-opacity));
+  }
+  .bg-blue-100 {
+    --tw-bg-opacity: 1;
+    background-color: rgba(66, 153, 225, var(--tw-bg-opacity));
+  }
 }
