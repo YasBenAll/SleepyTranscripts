@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import { useRouter } from 'next/router'
 import { useEffect, useState } from 'react'
+import MessageBox from '../../components/MessageBox';
 
 function formatMemberNames(members) {
   // Convert members string to an array of names
