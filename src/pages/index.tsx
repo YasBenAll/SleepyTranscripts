@@ -1,5 +1,7 @@
-import Link from 'next/link'
-import { useEffect, useState } from 'react'
+import Image from 'next/image';
+import Link from 'next/link';
+import { useEffect, useState } from 'react';
+import Footer from '../components/Footer';
 
 export default function Home() {
   const [data, setMessage] = useState("");
@@ -15,25 +17,39 @@ export default function Home() {
   }, [])
 
   return (
-    <>
-      <div className="flex justify-center">
-        <div className="bg-sleepycabin bg-opacity-10 p-30 px-6 py-6 rounded-md mx-auto  max-w-3/4 w-2/3 mt-8 ">
-          <div className="text-5xl flex flex-col items-center py-6">Episodes:</div>
-          {!loading ? (
-            <ul className="list-inside mt-4 ">
-              {data.map((item: any, i: any) => (
-                <li key={i} className="my-2">
-                  <Link href={`/episode/${item.slug}`}>
-                    <div className="text-blue-500 hover:underline">{item.name}</div>
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          ) : (
-            "Loading..."
-          )}
+    <div className="min-h-screen flex flex-col justify-between">
+      <div>
+        <div className="flex justify-center">
+          <div className="bg-sleepycabin bg-opacity-10 p-30 px-6 py-6 rounded-md mx-auto max-w-3/4 w-2/3 mt-8">
+            <div className="flex justify-center">
+              <Image 
+                src="/SC-logo-transparent.png"
+                alt="Sleepy Cabin"
+                width={591}
+                height={241}
+                alt="Sleepy Cabin"
+              />
+            </div>
+            <div className="text-5xl flex flex-col items-center py-6">All Episode Transcripts</div>
+            {!loading ? (
+              <ul className="list-inside mt-4 ">
+                {data.map((item, i) => (
+                  <li key={i} className="my-2">
+                    <Link href={`/episode/${item.slug}`}>
+                      <div className="text-blue-500 hover:underline">{item.name}</div>
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            ) : (
+              "Loading..."
+            )}
+          </div>
         </div>
       </div>
-    </>
+
+      {/* The footer will appear below the main content */}
+      {/* <Footer /> */}
+    </div>
   );
 }
