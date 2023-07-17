@@ -1,9 +1,9 @@
-// Footer.js
+import Link from 'next/link';
 
 const Footer = () => {
   return (
     <footer className="text-center p-4 mt-8">
-      This is the footer. Replace this text with your footer content.
+      Made with <span className="text-red-500">&hearts;</span> for The <Link className="text-blue-500" href="https://www.reddit.com/r/Sleepycabin/"><u>SleepyCabin Subreddit.</u></Link>
     </footer>
   );
 };
