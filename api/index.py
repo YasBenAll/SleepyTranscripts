@@ -5,9 +5,9 @@ from readFile import *
 app = Flask(__name__)
 CORS(app)
 
-@app.route("/api/hello")
-def hello():
-    return "Hello World!"
+@app.route("/api/python")
+def hello_world():
+    return "<p>Hello, World!</p>"
 
 @app.route("/api/episode_data/<episodeName>")
 def episode_data(episodeName):
