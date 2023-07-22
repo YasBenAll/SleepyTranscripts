@@ -8,6 +8,10 @@ CORS(app)
 with open("episode_metadata.json", "r") as f:
     episode_metadata = json.load(f)
 
+@app.route("/api/hello")
+def hello():
+    return "Hello World!"
+
 @app.route("/api/episode_data/<episodeName>")
 def episode_data(episodeName):
     episode = get_episode(episodeName)
