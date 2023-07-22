@@ -4,7 +4,7 @@ import { useRouter } from 'next/router'
 import { useEffect, useState } from 'react'
 import MessageBox from '../../components/MessageBox';
 
-function formatMemberNames(members) {
+function formatMemberNames(members: any) {
   // Convert members string to an array of names
   console.log(members);
   const names = members
@@ -45,7 +45,7 @@ export default function EpisodePage() {
   }
 
   // Function to create YouTube timestamp link
-  const createYouTubeTimestampLink = (time) => {
+  const createYouTubeTimestampLink = (time: any) => {
     const youtubeLink = episodeData["youtube_link"];
     console.log(youtubeLink);
     const timestamp = time.replace(/:/g, 'm') + 's';
