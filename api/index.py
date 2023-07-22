@@ -5,9 +5,6 @@ from readFile import *
 app = Flask(__name__)
 CORS(app)
 
-with open("episode_metadata.json", "r") as f:
-    episode_metadata = json.load(f)
-
 @app.route("/api/hello")
 def hello():
     return "Hello World!"
