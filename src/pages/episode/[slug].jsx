@@ -4,12 +4,12 @@ import { useRouter } from 'next/router'
 import { useEffect, useState } from 'react'
 import MessageBox from '../../components/MessageBox';
 
-function formatMemberNames(members: any) {
+function formatMemberNames(members) {
   // Convert members string to an array of names
   console.log(members);
   const names = members
   // Format the names array
-  const formattedNames = names.map((name: any, index: any) => {
+  const formattedNames = names.map((name, index) => {
     // Remove leading/trailing spaces
     const trimmedName = name.trim();
 
@@ -45,7 +45,7 @@ export default function EpisodePage() {
   }
 
   // Function to create YouTube timestamp link
-  const createYouTubeTimestampLink = (time: any) => {
+  const createYouTubeTimestampLink = (time) => {
     const youtubeLink = episodeData["youtube_link"];
     console.log(youtubeLink);
     const timestamp = time.replace(/:/g, 'm') + 's';
@@ -58,7 +58,7 @@ export default function EpisodePage() {
   };
 
   // Function to render dialog line with clickable timestamp
-  const renderDialogLine = (item: any, i: any) => {
+  const renderDialogLine = (item, i) => {
     return (
       <MessageBox type="info">
       <div key={i}>
