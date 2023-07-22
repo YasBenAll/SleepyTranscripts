@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/api/python")
 def hello_world():
-    return "<p>Hello, World!</p>"
+    return "<p>Zeg maar Willy.</p>"
 
 # @app.route("/api/episode_data/<episodeName>")
 # def episode_data(episodeName):
