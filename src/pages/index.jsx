@@ -21,7 +21,7 @@ export default function Home() {
   };
 
   useEffect(() => {
-    fetch('http://localhost:8080/api/episode_name')
+    fetch('https://sleepytranscripts.vercel.app/api/episode_name')
       .then((res) => {
         if (!res.ok) {
           throw new Error('Network response was not ok');
