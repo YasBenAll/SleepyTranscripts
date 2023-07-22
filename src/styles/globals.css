@@ -22,12 +22,15 @@ body {
  } 
 
 html {
-  background: #0b0215 url("/THEWOODS.png") no-repeat fixed;
+  background: #0b0215 url("/theWOODS.png") no-repeat fixed;
 }
 
 @layer utilities {
   .bg-sleepycabin {
     background-image: url('/patternDARK.png');
+  }
+  .bg-sleepycabin-woods {
+    background-image: #0b0215 url("/THEWOODS.png") no-repeat fixed;
   }
   .bg-green-100 {
     --tw-bg-opacity: 1;
