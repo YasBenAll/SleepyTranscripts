@@ -10,7 +10,7 @@ export default function Home() {
   const [loading, setLoading] = useState(true);
   const [checkedNames, setCheckedNames] = useState([]);
 
-  const handleToggleCheckbox = (name) => {
+  const handleToggleCheckbox = (name: any) => {
     setCheckedNames((prevCheckedNames) => {
       if (prevCheckedNames.includes(name)) {
         return prevCheckedNames.filter((checkedName) => checkedName !== name);
