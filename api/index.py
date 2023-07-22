@@ -1,5 +1,6 @@
 from flask import Flask
 from api.readFile import *
+import os
 
 app = Flask(__name__)
 
@@ -14,6 +15,7 @@ def episode_data(episodeName):
 
 @app.route("/api/episode_name")
 def episode_name():
-    with open("name_list.json", "r", encoding="utf-8") as f:
+    x = os.path.join('api',"name_list.json")
+    with open(x, "r", encoding="utf-8") as f:
         names = json.load(f)
     return names
