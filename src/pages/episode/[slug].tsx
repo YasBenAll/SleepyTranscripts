@@ -19,7 +19,7 @@ function formatMemberNames(members: any) {
     }
 
     // Return the last name with "and" before it
-    return 'and ' + trimmedName + '.';
+    return ' and ' + trimmedName + '.';
   });
 
   // Join the formatted names array with spaces
