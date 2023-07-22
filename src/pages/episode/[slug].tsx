@@ -9,7 +9,7 @@ function formatMemberNames(members: any) {
   console.log(members);
   const names = members
   // Format the names array
-  const formattedNames = names.map((name, index) => {
+  const formattedNames = names.map((name: any, index: any) => {
     // Remove leading/trailing spaces
     const trimmedName = name.trim();
 
@@ -58,7 +58,7 @@ export default function EpisodePage() {
   };
 
   // Function to render dialog line with clickable timestamp
-  const renderDialogLine = (item, i) => {
+  const renderDialogLine = (item: any, i: any) => {
     return (
       <MessageBox type="info">
       <div key={i}>
