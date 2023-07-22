@@ -10,8 +10,8 @@ export default function Home() {
   const [loading, setLoading] = useState(true);
   const [checkedNames, setCheckedNames] = useState([]);
  
-  const handleToggleCheckbox = (name: any) => {
-    setCheckedNames((prevCheckedNames: any) => {
+  const handleToggleCheckbox = (name) => {
+    setCheckedNames((prevCheckedNames) => {
       if (prevCheckedNames.includes(name)) {
         return prevCheckedNames.filter((checkedName) => checkedName !== name);
       } else {
@@ -44,7 +44,7 @@ export default function Home() {
     'Stamper', 'JohnnyUtah', 'Psychicpebbles', 'Spazkid', 'Oney', 'Niall', 'Ricepirate'
   ];
 
-  const filteredEpisodes = data.filter((item: any) =>
+  const filteredEpisodes = data.filter((item) =>
     checkedNames.every((name) => item.members.includes(name))
   );
 
@@ -67,7 +67,7 @@ export default function Home() {
           <div>Sleepycabin Members</div>
           <div className="container mx-auto p-4">
             <div>
-              {names.map((name: any, index: any) => (
+              {names.map((name, index) => (
                 <NameBox
                   key={index}
                   name={name}
