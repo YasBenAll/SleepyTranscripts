@@ -1,5 +1,5 @@
 from flask import Flask
-from readFile import *
+from api.readFile import *
 
 app = Flask(__name__)
 
