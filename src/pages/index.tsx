@@ -33,7 +33,7 @@ export default function Home() {
     'Stamper', 'JohnnyUtah', 'Psychicpebbles', 'Spazkid', 'Oney', 'Niall', 'Ricepirate'
   ];
 
-  const filteredEpisodes = data.filter((item) =>
+  const filteredEpisodes = data.filter((item: any) =>
     checkedNames.every((name) => item.members.includes(name))
   );
 
@@ -56,7 +56,7 @@ export default function Home() {
           <div>Sleepycabin Members</div>
           <div className="container mx-auto p-4">
             <div>
-              {names.map((name, index) => (
+              {names.map((name: any, index: any) => (
                 <NameBox
                   key={index}
                   name={name}
