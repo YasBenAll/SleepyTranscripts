@@ -9,9 +9,9 @@ export default function Home() {
   const [data, setMessage] = useState([]);
   const [loading, setLoading] = useState(true);
   const [checkedNames, setCheckedNames] = useState([]);
-
+ 
   const handleToggleCheckbox = (name: any) => {
-    setCheckedNames((prevCheckedNames) => {
+    setCheckedNames((prevCheckedNames: any) => {
       if (prevCheckedNames.includes(name)) {
         return prevCheckedNames.filter((checkedName) => checkedName !== name);
       } else {
@@ -22,12 +22,23 @@ export default function Home() {
 
   useEffect(() => {
     fetch('http://localhost:8080/api/episode_name')
-      .then((res) => res.json())
+      .then((res) => {
+        if (!res.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return res.json();
+      })
       .then((data) => {
         setMessage(data);
         setLoading(false);
+      })
+      .catch((error) => {
+        // Handle the error here
+        console.error('Error fetching data:', error);
+        setLoading(false);
       });
   }, []);
+  
 
   const names = [
     'Stamper', 'JohnnyUtah', 'Psychicpebbles', 'Spazkid', 'Oney', 'Niall', 'Ricepirate'
