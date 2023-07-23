@@ -42,7 +42,8 @@ def get_episode(episode_name):
     episode = episode_metadata[episode_name]["name"]
 
     episode_members = []
-    with open(f"name_list.json") as file:
+    x = os.path.join('api',"name_list.json")
+    with open(x) as file:
         name_list = json.load(file)
 
     for i in name_list:
