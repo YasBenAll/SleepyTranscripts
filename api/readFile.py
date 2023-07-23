@@ -31,7 +31,8 @@ def speaker_process(lines):
     return line_list
 
 def get_metadata():
-    with open("episode_metadata.json", "r", encoding="utf8") as f:
+    x = os.path.join('api',"episode_metadata.json")
+    with open(x, "r", encoding="utf8") as f:
         episode_metadata = json.load(f)
     return episode_metadata
 
