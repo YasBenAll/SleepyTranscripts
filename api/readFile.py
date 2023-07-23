@@ -1,4 +1,5 @@
 import json
+import os
 import re
 
 def speaker_process(lines):
@@ -48,8 +49,9 @@ def get_episode(episode_name):
             episode_members = i["members"]
             break
 
-    print(episode_members)
-    with open(f"sleepycast/{episode}", encoding="utf8") as file:
+    # print(episode_members)
+    x = os.path.join('api',"sleepycast", episode)
+    with open(x, encoding="utf8") as file:
         text = [line for line in file.readlines() if line!="\n"]
         speakers = speaker_process([i.replace("\n", "")[1:-2] for i in text[::2]])
         dialog = [i[:-1] for i in text[1::2]]
