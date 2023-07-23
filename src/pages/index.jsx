@@ -52,7 +52,7 @@ export default function Home() {
     <div className="min-h-screen flex flex-col justify-between">
       <Head>
         <title>Sleepy Cabin Transcripts</title>
-        <meta property="og:title" content="My page title" key="title" />
+        <meta property="og:title" content="SleepyCast Transcripts" key="title" />
       </Head>
       <div className="flex justify-center">
         <div className="bg-sleepycabin bg-opacity-10 p-30 px-6 py-6 rounded-md mx-auto max-w-3/4 w-2/3 mt-8">
