@@ -34,7 +34,7 @@ export default function EpisodePage() {
 
   useEffect(() => {
     if (slug) {
-      fetch(`https://sleepytranscripts.vercel.app/api/episode_data/${slug}`)
+      fetch(`https://www.sleepytranscripts.com/api/episode_data/${slug}`)
         .then((res) => res.json())
         .then((data) => setEpisodeData(data));
     }
