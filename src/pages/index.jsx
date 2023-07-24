@@ -62,7 +62,7 @@ export default function Home() {
           <div className="text-center text-5xl flex flex-col items-center py-6">
             All SleepyCast Transcripts
           </div>
-          <div className='text-center'>Ever found yourself seeking a particular quote from a particular episode from the SleepyCast? Fear not, for this website will help you on your quest.</div>
+          <div className='text-center'>Ever found yourself seeking a particular quote from a particular SleepyCast episode? Worry not, for this website might help you on your quest, or not :D</div>
           <br/>
           <div>Sleepycabin Members</div>
           <div className="container mx-auto p-4">
