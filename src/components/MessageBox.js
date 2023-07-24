@@ -8,7 +8,7 @@ const MessageBox = ({ type, children }) => {
         case "error":
           return "bg-red-100 text-red-800";
         case "info":
-          return "#6B7280 text-blue-800";
+          return "bg-#6B7280 text-blue-800";
         default:
           return "bg-gray-100 text-gray-800";
       }
