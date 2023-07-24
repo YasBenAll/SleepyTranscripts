@@ -21,7 +21,10 @@ export default function Home() {
   };
 
   useEffect(() => {
-    fetch('https://www.sleepytranscripts.com/api/episode_name')
+    console.log(window.location.hostname)
+    const webdomain = "http://localhost:3000"
+    // const webdomain = "https://sleepytranscripts.com"
+    fetch(`${webdomain}/api/episode_name`)
       .then((res) => {
         if (!res.ok) {
           throw new Error('Network response was not ok');

@@ -34,7 +34,9 @@ export default function EpisodePage() {
 
   useEffect(() => {
     if (slug) {
-      fetch(`https://www.sleepytranscripts.com/api/episode_data/${slug}`)
+      const webdomain = "http://localhost:3000"
+      // const webdomain = "https://sleepytranscripts.com"
+      fetch(`${webdomain}/api/episode_data/${slug}`)
         .then((res) => res.json())
         .then((data) => setEpisodeData(data));
     }
