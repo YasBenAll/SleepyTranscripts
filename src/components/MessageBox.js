@@ -14,7 +14,7 @@ const MessageBox = ({ type, children }) => {
       }
     };
   
-    const containerClasses = `rounded-md p-4 mb-4 ${getTypeStyles()}`;
+    const containerClasses = `rounded-md p-1 mb-4 text-blue-600}`;
   
     return (
       <div className={containerClasses}>

@@ -1,13 +1,21 @@
 import React from 'react';
+import localFont from '@next/font/local';
 
-const NameBox = ({ name, isChecked, handleToggleCheckbox }) => {
+const pirata = localFont({
+  src: '../../public/fonts/PirataOne-Regular.ttf',
+  variable: '--font-amatic',
+})
+
+const NameBox = ({ name, isChecked, handleToggleCheckbox, image }) => {
   return (
     <div
-      className={`inline-block m-2 p-2 border rounded cursor-pointer ${
-        isChecked ? 'bg-blue-100' : ''
+      style={pirata.style}
+      className={`text-center hover:scale-105 transition-transform duration-200 inline-block m-2 p-2 border rounded cursor-pointer ${
+        isChecked ? 'bg-violet-600/60' : ''
       }`}
       onClick={handleToggleCheckbox}
     >
+      <img src={image} alt={name} className="w-20 h-20" />
       {name}
     </div>
   );

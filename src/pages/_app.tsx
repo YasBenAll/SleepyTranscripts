@@ -1,6 +1,10 @@
 import '@/styles/globals.css'
 import type { AppProps } from 'next/app'
 import Head from 'next/head'
+import { Open_Sans } from '@next/font/google'
+
+const openSans = Open_Sans({ subsets: ['latin-ext'] })
+
 
 export default function App({ Component, pageProps }: AppProps) {
   return (
@@ -9,7 +13,9 @@ export default function App({ Component, pageProps }: AppProps) {
       <link rel="shortcut icon" href="/images/favicon.png" />
       <title>Sleepy Cabin Transcripts</title>
     </Head>
+    <div style={openSans.style}>
     <Component {...pageProps} />
+    </div>
   </>
   );
 }
