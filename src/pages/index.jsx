@@ -8,7 +8,7 @@ import localFont from '@next/font/local';
 import { Open_Sans } from '@next/font/google';
 
 const amatic = localFont({
-  src: '../../fonts/AmaticSC-Regular.ttf',
+  src: '../../public/fonts/AmaticSC-Regular.ttf',
   variable: '--font-amatic',
 })
 

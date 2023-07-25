@@ -6,12 +6,12 @@ import MessageBox from '../../components/MessageBox';
 import localFont from '@next/font/local'
 
 const amatic = localFont({
-  src: '../../../fonts/AmaticSC-Regular.ttf',
+  src: '../../../public/fonts/AmaticSC-Regular.ttf',
   variable: '--font-amatic',
 })
 
 const iceland = localFont({
-  src: '../../../fonts/iceland-regular.ttf',
+  src: '../../../public/fonts/iceland-regular.ttf',
   variable: '--font-amatic',
 })
 
