@@ -44,7 +44,8 @@ export default function EpisodePage() {
 
   useEffect(() => {
     if (slug) {
-      const webdomain = "http://localhost:3000"
+      // const webdomain = "http://localhost:3000"
+      const webdomain = "https://sleepytranscripts-git-dev-yasbenall.vercel.app/"
       // const webdomain = "https://sleepytranscripts.com"
       fetch(`${webdomain}/api/episode_data/${slug}`)
         .then((res) => res.json())

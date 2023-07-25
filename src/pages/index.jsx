@@ -31,8 +31,10 @@ export default function Home() {
 
   useEffect(() => {
     console.log(window.location.hostname)
-    const webdomain = "http://localhost:3000"
+    // const webdomain = "http://localhost:3000"
+    const webdomain = "https://sleepytranscripts-git-dev-yasbenall.vercel.app/"
     // const webdomain = "https://sleepytranscripts.com"
+
     fetch(`${webdomain}/api/episode_name`)
       .then((res) => {
         if (!res.ok) {
