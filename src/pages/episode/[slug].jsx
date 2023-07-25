@@ -3,10 +3,20 @@ import Link from 'next/link'
 import { useRouter } from 'next/router'
 import { useEffect, useState } from 'react'
 import MessageBox from '../../components/MessageBox';
+import localFont from '@next/font/local'
+
+const amatic = localFont({
+  src: '../../../fonts/AmaticSC-Regular.ttf',
+  variable: '--font-amatic',
+})
+
+const iceland = localFont({
+  src: '../../../fonts/iceland-regular.ttf',
+  variable: '--font-amatic',
+})
 
 function formatMemberNames(members) {
   // Convert members string to an array of names
-  console.log(members);
   const names = members
   // Format the names array
   const formattedNames = names.map((name, index) => {
@@ -43,21 +53,16 @@ export default function EpisodePage() {
   }, [slug]);
 
   if (!episodeData) {
-    return <div class="border border-blue-300 shadow rounded-md p-4 max-w-sm w-full mx-auto">
-    <div class="animate-pulse flex space-x-4">
-      <div class="rounded-full bg-slate-200 h-10 w-10"></div>
-      <div class="flex-1 space-y-6 py-1">
-        <div class="h-2 bg-slate-200 rounded"></div>
-        <div class="space-y-3">
-          <div class="grid grid-cols-3 gap-4">
-            <div class="h-2 bg-slate-200 rounded col-span-2"></div>
-            <div class="h-2 bg-slate-200 rounded col-span-1"></div>
-          </div>
-          <div class="h-2 bg-slate-200 rounded"></div>
+    return     <div className="flex h-screen justify-center">
+    <button type="button" className="" disabled>
+        <div className="flex justify-center">
+        <svg class="animate-spin -ml-1 mr-3 h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+            <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+            <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+        </svg>
         </div>
-      </div>
-    </div>
-  </div>;
+    </button>
+  </div>
   }
 
   // Function to create YouTube timestamp link
@@ -80,7 +85,7 @@ export default function EpisodePage() {
       <div key={i}>
         {/* {item.speaker} */}
         <text> [</text>
-        <Link className ="" href={createYouTubeTimestampLink(item.start_time)} target="_blank">
+        <Link className ="hover:underline" href={createYouTubeTimestampLink(item.start_time)} target="_blank">
           {item.start_time}
         </Link>
         <text>] </text>
@@ -105,14 +110,16 @@ export default function EpisodePage() {
         <Link href="/">
           <div className="text-blue-500 hover:underline">Back</div>
         </Link>
-        <div className="mt-4">Featuring {formatMemberNames(episodeData["members"])}</div>
-        <Link
-          className="text-4xl mt-4"
-          href={episodeData["youtube_link"] || "#"}
-          target="_blank"
-        >
-          {episodeData["episode_name"]}
-        </Link>
+        <div style={iceland.style} className="text-sm text-orange-400 pb-2 mt-2">Featuring {formatMemberNames(episodeData["members"])}</div>
+        <div style={amatic.style}>
+          <Link
+            className="text-4xl mt-4"
+            href={episodeData["youtube_link"] || "#"}
+            target="_blank"
+          >
+            {episodeData["episode_name"]}
+          </Link>
+        </div>
         <div className="mt-4">
           {episodeData["dialog"].map(renderDialogLine)}
         </div>
