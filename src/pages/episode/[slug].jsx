@@ -11,7 +11,7 @@ const amatic = localFont({
 })
 
 const iceland = localFont({
-  src: 'fonts/iceland-regular.ttf',
+  src: 'fonts/Iceland-Regular.ttf',
   variable: '--font-amatic',
 })
 
