@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import React from 'react';
 import localFont from '@next/font/local';
 
@@ -15,7 +16,7 @@ const NameBox = ({ name, isChecked, handleToggleCheckbox, image }) => {
       }`}
       onClick={handleToggleCheckbox}
     >
-      <img src={image} alt={name} className="w-20 h-20" />
+      <Image src={image} alt={name} className="w-20 h-20" />
       {name}
     </div>
   );
