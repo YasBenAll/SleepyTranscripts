@@ -33,7 +33,7 @@ export default function Home() {
     console.log(window.location.hostname)
     // const webdomain = "http://localhost:3000"
     // const webdomain = "https://sleepytranscripts-git-dev-yasbenall.vercel.app/"
-    const webdomain = "https://sleepytranscripts.com"
+    const webdomain = "https://www.sleepytranscripts.com"
 
     fetch(`${webdomain}/api/episode_name`)
       .then((res) => {
